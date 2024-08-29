@@ -1,5 +1,6 @@
 ## Servicemodelle
 
+
 ### Die vier Servicemodelle
 
 #### IaaS (Infrastructure as a Service)
@@ -22,12 +23,14 @@
 - **Beispiel:** AWS Lambda, Azure Functions.
 - **Pizza-Prinzip:** Wie das Ergänzen von Funktionen zu einem bereits bestehenden Anwendungsrahmen. Die gesamte Infrastruktur wird vom Anbieter bereitgestellt.
 
+
 ### Hierarchie der Servicemodelle
 
 - **IaaS** ist die Grundlage, auf der **PaaS** aufbaut. IaaS stellt die grundlegende Infrastruktur bereit, auf der PaaS-Anbieter ihre Plattformen aufbauen.
 - **PaaS** baut auf **IaaS** auf, indem es zusätzlich zur Infrastruktur auch eine Entwicklungsplattform bereitstellt.
 - **SaaS** baut auf **IaaS** und **PaaS** auf, indem es fertige Softwarelösungen zur Nutzung anbietet, die auf den zugrunde liegenden IaaS- und PaaS-Ressourcen laufen.
 - **FaaS** ist eine spezielle Form, die auf den grundlegenden Modellen aufbauen kann, indem es Funktionen als Service anbietet, oft innerhalb von PaaS- oder IaaS-Umgebungen.
+
 
 ### Beispielprodukte für die Servicemodelle
 
