@@ -6,7 +6,7 @@ Dies ist das Porfolio vom Modul 346 von Luka Vukadin. In diesesm Portfolio sind 
 
 ### Dokumentationen
 
-VM in AWS aufsetzen und via RDP verbinden 
+(/Update Dokumentation Windows Server Installation.md)
 
 ### Kompetenznachweise
 
