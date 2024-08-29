@@ -31,4 +31,4 @@
 
    <img width="264" alt="image" src="https://github.com/user-attachments/assets/3dcdbcd9-2a19-4470-8722-9f7622edd45c">
 
-7. 
+7. Jetzt müssen wir auf 
