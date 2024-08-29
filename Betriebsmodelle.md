@@ -3,7 +3,7 @@
 ### Betriebsmodelle:
    - **On-Premises**: Die IT-Infrastruktur wird im eigenen Rechenzentrum betrieben. Unternehmen haben volle Kontrolle über ihre Daten und Systeme, tragen aber auch die Verantwortung für Wartung und Sicherheit. Vorteile sind die maximale Kontrolle und Unabhängigkeit, während hohe Kosten und geringer Skalierungsspielraum als Nachteile gelten.
 
-
+<img src="https://github.com/user-attachments/assets/22b87e42-4f72-490c-8a0b-8c846509ffd6" width="50%" height="50%">
 
    - **Private Cloud**: Die Infrastruktur kann im eigenen Rechenzentrum oder extern gehostet werden, aber die Ressourcen werden exklusiv vom eigenen Unternehmen genutzt. Es bietet hohe Sicherheit und Flexibilität, ist jedoch teurer und komplexer im Vergleich zur Public Cloud.
    - **Public Cloud**: IT-Services werden über das Internet von einem Drittanbieter bereitgestellt. Es ist kosteneffizient und einfach skalierbar, birgt aber Sicherheitsrisiken und potenzielle Abhängigkeiten vom Anbieter.
