@@ -39,9 +39,9 @@ Exklusive Nutzung der Cloud-Ressourcen durch das Unternehmen, entweder im eigene
    - **On-Premises**: Klassische Unternehmenssoftware wie ERP-Systeme, die lokal betrieben werden.
    - **Private Cloud**: Ein Unternehmen, das seine eigene Cloud-Umgebung für sensible Daten nutzt.
    - **Public Cloud**: Start-ups, die Cloud-Services wie Amazon Web Services (AWS) für skalierbare IT-Infrastruktur nutzen.
-   - **Hybrid Cloud**: Grosse Unternehmen, die bestimmte Anwendungen im eigenen Rechenzentrum und andere in der Public Cloud betreiben.
+   - **Hybrid Cloud**: Grosse Unternehmen, die bestimmte Anwendungen im eigenen Rechenzentrum (Cloud) und andere in der Public Cloud betreiben.
 
 Credits: 
 
-Yenul hat mir beim Bild anpassen geholfen.
-Ilai und ich haben zusammen über Hybrid Cloud geredet und unseren Text angepasst.
+- Yenul hat mir beim Bild anpassen geholfen.
+- Ilai und ich haben zusammen über Hybrid Cloud geredet und unseren Text angepasst.
