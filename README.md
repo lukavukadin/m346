@@ -11,7 +11,7 @@ Dies ist das Porfolio vom Modul 346 von Luka Vukadin. In diesesm Portfolio sind 
 ### Kompetenznachweise
 
 - #### KN00
-  - [Betriebsmodelle.md](Betriebsmodelle.md)
+  - [Update Betriebsmodelle.md](Betriebsmodelle.md)
   - [Servicemodelle.md](Servicemodelle.md)
 
 - #### KN01
