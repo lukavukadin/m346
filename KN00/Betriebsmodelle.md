@@ -43,12 +43,12 @@ Exklusive Nutzung der Cloud-Ressourcen durch das Unternehmen, entweder im eigene
 
 #### Quelle: 
 
-- Ich habe mir das GitLab-Dokument von Callisto Betriebsmodelle gründlich durchgelesen, um die verschiedenen Betriebsmodelle vollständig zu verstehen. Anschließend habe ich die wichtigsten Informationen in meinem GitHub-Repository zusammengefasst und für jedes Betriebsmodell ein Bild hinzugefügt, um die Konzepte visuell darzustellen. Um die Zusammenfassung prägnanter und leichter verständlich zu machen, habe ich die Inhalte gekürzt, sodass sie übersichtlicher und schneller nachschlagbar sind.
+- Ich habe mir das GitLab-Dokument von Callisto Betriebsmodelle gründlich durchgelesen, um die verschiedenen Betriebsmodelle vollständig zu verstehen. Anschliessend habe ich die wichtigsten Informationen in meinem GitHub-Repository zusammengefasst und für jedes Betriebsmodell ein Bild hinzugefügt, um die Konzepte visuell darzustellen. Um die Zusammenfassung leichter verständlich zu machen, habe ich die Inhalte gekürzt, sodass sie übersichtlicher und schneller nachschlagbar sind.
 
-- Zusätzlich habe ich ChatGPT genutzt, um ein paar Fragen zu klären. Ich habe gefragt, wie ich die komplexen Betriebsmodelle einfacher erklären kann und welche Methoden am besten sind, um die Infos visuell aufzubereiten. Außerdem wollte ich wissen, wie ich die wichtigsten Punkte klar und knapp zusammenfassen kann, damit man sie schnell versteht.
+- Zusätzlich habe ich ChatGPT genutzt, um ein paar Fragen zu klären. Ich habe gefragt, wie ich die Betriebsmodelle einfacher erklären kann und welche Methoden am besten sind, um die Infos visuell aufzubereiten. Ausserdem wollte ich wissen, wie ich die wichtigsten Punkte klar und knapp zusammenfassen kann, damit man sie schnell versteht.
 
 #### Credits: 
 
 - Yenul hat mir beim Bild anpassen geholfen.
-- Ilai und ich haben zusammen über Hybrid Cloud geredet und unseren Text angepasst.
+- Ilai und ich haben uns zusammen über Hybrid Cloud ausgetauscht und somit auch unseren Text angepasst.
 
