@@ -32,6 +32,7 @@
 - **Beispiel:** AWS Lambda, Azure Functions.
 - **Pizza-Prinzip:** Wie das Ergänzen von Funktionen zu einem bereits bestehenden Anwendungsrahmen. Die gesamte Infrastruktur wird vom Anbieter bereitgestellt.
 
+<img src="https://github.com/user-attachments/assets/f770a5f7-6ebe-43aa-95e9-a1699f5fd4a3" alt="Verkleinertes Bild" width="40%">
 
 ### Hierarchie der Servicemodelle
 
