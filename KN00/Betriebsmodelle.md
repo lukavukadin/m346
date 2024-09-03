@@ -30,7 +30,7 @@
      
 Exklusive Nutzung der Cloud-Ressourcen durch das Unternehmen, entweder im eigenen Rechenzentrum oder bei einem externen Anbieter. Bietet hohe Sicherheit und Anpassungsfähigkeit, ist aber teurer und verwaltungsintensiver.
 
-<img src="https://github.com/user-attachments/assets/17f6a439-250d-4641-970f-6c942024b9b2" width="20%" height="20%">
+<img src="https://github.com/user-attachments/assets/17f6a439-250d-4641-970f-6c942024b9b2" width="30%" height="30%">
 
 
 
