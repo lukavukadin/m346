@@ -18,7 +18,7 @@
 
    - **Hybrid Cloud**: Eine Kombination aus On-Premises und Public Cloud, die sowohl die Sicherheit und Kontrolle der On-Premises als auch die Flexibilität der Public Cloud bietet. Sie ist anpassbar und oft kostengünstiger, erfordert aber klare Regeln für die Sicherheit.
 
-<img src="https://github.com/user-attachments/assets/37e91e9b-2971-46a0-aaa9-331dc8d7ebd8" width="20%" height="20%">
+<img src="https://github.com/user-attachments/assets/37e91e9b-2971-46a0-aaa9-331dc8d7ebd8" width="30%" height="30%">
 
 ### Public vs. Private Cloud:
 
