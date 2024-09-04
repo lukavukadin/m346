@@ -12,7 +12,7 @@ Dies ist das Porfolio vom Modul 346 von Luka Vukadin. In diesesm Portfolio sind 
 
 - #### KN00
   - [Betriebsmodelle ansehen](KN00/Betriebsmodelle.md)
-  - [Servicemodelle](Servicemodelle.md)
+  - [Servicemodelle ansehen](KNO1/Servicemodelle.md)
 
 - #### KN01
   - Pricing
