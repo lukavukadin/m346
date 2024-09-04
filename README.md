@@ -16,8 +16,8 @@ Dies ist das Porfolio vom Modul 346 von Luka Vukadin. In diesesm Portfolio sind 
 
 - #### KN01
   - [Pricing ansehen](KN01/Pricing.md)
-  - [Migration Cloud ansehen](KNO1/MigrationCloud.md)
-  - [Optionen Markt ansehen](KNO1/OptionenMarkt.md)
+  - [Migration Cloud ansehen](KNO1/Migration_Cloud.md)
+  - [Optionen Markt ansehen](KNO1/Optionen_Markt.md)
 
 - #### KN02
 
