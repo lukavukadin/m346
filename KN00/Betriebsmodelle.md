@@ -20,7 +20,7 @@
 
 <img src="https://github.com/user-attachments/assets/37e91e9b-2971-46a0-aaa9-331dc8d7ebd8" width="30%" height="30%"> <br><br><br>
 
-### Public vs. Private Cloud:
+### Public vs. Private Cloud: <br><br>
 
    - **Public Cloud:**
      
