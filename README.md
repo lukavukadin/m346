@@ -15,9 +15,9 @@ Dies ist das Porfolio vom Modul 346 von Luka Vukadin. In diesesm Portfolio sind 
   - [Servicemodelle ansehen](KN00/Servicemodelle.md)
 
 - #### KN01
-  - [Servicemodelle ansehen](KN01/Pricing.md)
-  - [Servicemodelle ansehen](KNO1/MigrationCloud.md)
-  - [Servicemodelle ansehen](KNO1/OptionenMarkt.md)
+  - [Pricing ansehen](KN01/Pricing.md)
+  - [Migration Cloud ansehen](KNO1/MigrationCloud.md)
+  - [Optionen Markt ansehen](KNO1/OptionenMarkt.md)
 
 - #### KN02
 
