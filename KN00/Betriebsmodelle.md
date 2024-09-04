@@ -24,7 +24,7 @@
 
    - **Public Cloud:**
      
-Öffentliche IT-Services über das Internet mit Shared Resources. Vorteilhaft wegen Kosteneffizienz und Flexibilität, jedoch mit potenziellen Sicherheits- und Datenschutzrisiken.
+Öffentliche IT-Services über das Internet mit Shared Resources. Vorteilhaft wegen Kosteneffizienz und Flexibilität, jedoch mit potenziellen Sicherheits- und Datenschutzrisiken. <br><br>
 
    - **Private Cloud:** <br><br>
      
