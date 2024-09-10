@@ -8,8 +8,11 @@ In dieser Übung haben wir die AWS Management Console verwendet, um das On-Deman
 ## Kostenkalkulation
 
 Für die Region **North Virginia (us-east-1)** gelten folgende On-Demand Preise:
-- **t2.micro**: $0.0116 pro Stunde
-- **m4.xlarge**: $0.2 pro Stunde
+
+| Instanztyp  | Stündlicher Preis (USD) | Monatlicher Preis (USD) |
+|-------------|-------------------------|-------------------------|
+| **t2.micro** | $0.0116                 | 8.35                    |
+| **m4.xlarge** | $0.2                    | 144                     |
 
 **Berechnung der monatlichen Kosten:**
 
