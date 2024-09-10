@@ -9,26 +9,10 @@ In dieser Übung haben wir die AWS Management Console verwendet, um das On-Deman
 
 Für die Region **North Virginia (us-east-1)** gelten folgende On-Demand Preise:
 
-| Instanztyp  | Stündlicher Preis (USD) | Monatlicher Preis (USD) |
-|-------------|-------------------------|-------------------------|
-| **t2.micro** | $0.0116                 | 8.35                    |
-| **m4.xlarge** | $0.2                    | 144                     |
-
-**Berechnung der monatlichen Kosten:**
-
-- **t2.micro**:
-  \[
-  0.0116 \, \text{USD} \times 24 \, \text{Stunden} \times 30 \, \text{Tage} = 8.35 \, \text{USD}
-  \]
-
-- **m4.xlarge**:
-  \[
-  0.2 \, \text{USD} \times 24 \, \text{Stunden} \times 30 \, \text{Tage} = 144 \, \text{USD}
-  \]
-
-**Monatliche Kostenübersicht:**
-- **t2.micro**: 8.35 USD
-- **m4.xlarge**: 144 USD
+| Instanztyp   | Stündlicher Preis (USD) | Monatlicher Preis (USD)       |
+|--------------|--------------------------|-------------------------------|
+| **t2.micro** | $0.0116                  | $0.0116 × 24 × 30 = $8.35    |
+| **m4.xlarge**| $0.2                     | $0.2 × 24 × 30 = $144        |
 
 ---
 
