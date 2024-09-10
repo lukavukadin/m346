@@ -1,5 +1,3 @@
-# Servicemodelle
-
 ## Die vier Servicemodelle
 
 ### IaaS (Infrastructure as a Service)
