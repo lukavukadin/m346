@@ -1,10 +1,10 @@
 # Vergleich von Cloud-Providern: AWS vs. Microsoft Azure
 
 ## Ausgangslage
-In dieser Übung vergleichen wir AWS mit Microsoft Azure, einem weiteren großen Cloud-Provider. Ziel ist es, die Kosten und Funktionen der beiden Cloud-Plattformen zu vergleichen und die beste Lösung für die Anforderungen eines Unternehmens mit 50 Mitarbeitern zu empfehlen.
+In dieser Übung habe ich AWS mit Microsoft Azure verglichen, einem weiteren großen Cloud-Provider. Ziel war es, die Kosten und Funktionen der beiden Cloud-Plattformen zu vergleichen und die beste Lösung für die Anforderungen meines Unternehmens mit 50 Mitarbeitern zu empfehlen.
 
 ## Schritt 1: Provider-Auswahl
-Für den Vergleich haben wir **Microsoft Azure** ausgewählt.
+Für den Vergleich habe ich **Microsoft Azure** ausgewählt.
 
 ## Schritt 2: Funktionen und Services
 
@@ -39,11 +39,11 @@ Für den Vergleich haben wir **Microsoft Azure** ausgewählt.
 ## Schritt 4: Performance und Verfügbarkeit
 
 ### AWS
-- **EC2 t2.micro:** Gute Leistung für grundlegende Anwendungen; geeignet für Web-Server und kleine Datenbanken.
+- **EC2 t2.micro:** Bietet gute Leistung für grundlegende Anwendungen; geeignet für Web-Server und kleine Datenbanken.
 - **S3:** Hohe Verfügbarkeit und Durabilität; zuverlässiger Speicherdienst.
 
 ### Microsoft Azure
-- **Azure Virtual Machines B1s:** Vergleichbare Leistung mit t2.micro; ebenfalls gut für einfache Web-Server und Entwicklungsumgebungen.
+- **Azure Virtual Machines B1s:** Bietet vergleichbare Leistung mit t2.micro; ebenfalls gut für einfache Web-Server und Entwicklungsumgebungen.
 - **Azure Blob Storage:** Hohe Verfügbarkeit und Performance; vergleichbar mit AWS S3.
 
 ### Unterschiede in der Leistung
@@ -73,12 +73,12 @@ Beide Anbieter bieten vergleichbare Leistungen und Verfügbarkeiten. Die Untersc
 
 ## Empfehlung
 
-Basierend auf der Kostenanalyse und den verfügbaren Funktionen bietet **Microsoft Azure** eine kostengünstigere Lösung als AWS. Die Preise für Azure Virtual Machines und Blob Storage sind günstiger als die vergleichbaren AWS-Dienste. 
+Auf Basis meiner Analyse bietet **Microsoft Azure** eine kostengünstigere Lösung als AWS. Die Preise für Azure Virtual Machines und Blob Storage sind günstiger als die vergleichbaren AWS-Dienste. 
 
 **Empfohlene Lösung:**
 
-1. **Migration zu Microsoft Azure:** Die Kostenvorteile und die enge Integration mit Microsoft-Produkten können für viele Unternehmen vorteilhaft sein.
-2. **Weitere Evaluierung:** Es ist ratsam, spezifische Anforderungen des Unternehmens zu berücksichtigen und möglicherweise eine Testmigration durchzuführen, um die Eignung der Plattform zu überprüfen.
+1. **Migration zu Microsoft Azure:** Die Kostenvorteile und die enge Integration mit Microsoft-Produkten können für mein Unternehmen vorteilhaft sein.
+2. **Weitere Evaluierung:** Es wird empfohlen, spezifische Anforderungen des Unternehmens zu berücksichtigen und möglicherweise eine Testmigration durchzuführen, um die Eignung der Plattform zu überprüfen.
 
 ---
 
