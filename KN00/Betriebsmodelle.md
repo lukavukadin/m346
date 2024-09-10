@@ -1,6 +1,4 @@
-# Betriebsmodelle und ihre Unterschiede
-
-## Betriebsmodelle
+## Betriebsmodelle und ihre Unterschiede
 
 ### 1. On-Premises
 - **Beschreibung:** Die IT-Infrastruktur wird im eigenen Rechenzentrum betrieben. Unternehmen haben volle Kontrolle über ihre Daten und Systeme, tragen aber auch die Verantwortung für Wartung und Sicherheit.
