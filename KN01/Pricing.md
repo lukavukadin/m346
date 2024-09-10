@@ -1,5 +1,3 @@
-# Pricing
-
 # AWS On-Demand Pricing und Instanzvergleich
 
 ## Ausgangslage
