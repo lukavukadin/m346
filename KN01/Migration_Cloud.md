@@ -39,10 +39,10 @@ Das Unternehmen mit 50 Mitarbeitern betreibt derzeit die IT On-Premises. Die mon
 | AWS EC2 m4.xlarge (Var. B)          | 143.28 USD|
 | AWS S3-Speicher 20TB                | 471.04 USD|
 | Weitere Kosten (Administration etc.)| 2'000.-   |
-| **Gesamtkosten AWS X-Large**        | **2'419.76 USD** |
+| **Gesamtkosten AWS X-Large**        | **2'614.32 USD** |
 
-**Jährliche Gesamtkosten AWS X-Large:** 2'419.76 USD * 12 = 29'037.12 USD  
-**Kosten auf 3 Jahre:** 29'037.12 USD * 3 = 87'111.36 USD
+**Jährliche Gesamtkosten AWS X-Large:** 2'614.32 USD * 12 = 31'371.84 USD  
+**Kosten auf 3 Jahre:** 31'371.84 USD * 3 = 94'115.52 USD
 
 ## Schritt 3: Vergleich der drei Varianten
 
@@ -50,7 +50,7 @@ Das Unternehmen mit 50 Mitarbeitern betreibt derzeit die IT On-Premises. Die mon
 |------------------|-----------|------------|------------|
 | On-Premises       | 9'500.-   | 114'000.-   | 342'000.-  |
 | t2.micro          | 2'482.70.- | 29'792.40.- | 89'377.20.-|
-| m4.xlarge         | 2'419.76.-| 29'037.12.-   | 87'111.36.-  |
+| m4.xlarge         | 2'614.32.-| 31'371.84-   | 94'115.52.-  |
 
 ## Schritt 4: Vorteile und Nachteile der Cloud
 
