@@ -25,10 +25,10 @@ Das Unternehmen mit 50 Mitarbeitern betreibt derzeit die IT On-Premises. Die mon
 | AWS EC2 t2.micro (Var. A)           | 11.66 USD |
 | AWS S3-Speicher 20TB                | 471.04 USD|
 | Weitere Kosten (Administration etc.)| 1'000.-   |
-| **Gesamtkosten AWS Low**            | **1'012.60 USD** |
+| **Gesamtkosten AWS Low**            | **1'482.70 USD** |
 
-**Jährliche Gesamtkosten AWS Low:** 1'012.60 USD * 12 = 12'151.20 USD  
-**Kosten auf 3 Jahre:** 12'151.20 USD * 3 = 36'453.60 USD
+**Jährliche Gesamtkosten AWS Low:** 1'482.70 USD * 12 = 17'792.40 USD  
+**Kosten auf 3 Jahre:** 17'792.40 USD * 3 = 53'453.60 USD
 
 ## Schritt 2b: Kostenanalyse Variante X-Large - AWS Instance-Type m4.xlarge
 
