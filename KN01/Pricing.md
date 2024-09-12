@@ -35,4 +35,4 @@ Für die Region **North Virginia (us-east-1)** gelten folgende On-Demand Preise:
 ---
 
 ## Fazit
-Der Vergleich zeigt, dass **t2.micro** für kostengünstigere und weniger leistungsintensive Anwendungen geeignet ist, während **m4.xlarge** für leistungsintensive Aufgaben und größere Workloads besser geeignet ist. Die Wahl des Instanztyps sollte basierend auf den spezifischen Anforderungen und dem Budget der jeweiligen Anwendung getroffen werden.
+**t2.micro** ist gut für einfache und günstige Anwendungen. **m4.xlarge** ist besser für anspruchsvollere Aufgaben und größere Datenmengen. Die Wahl hängt davon ab, was die Anwendung braucht und wie viel Budget zur Verfügung steht.
