@@ -77,13 +77,3 @@ Auf Basis der Kostenanalyse empfiehlt es sich, die **Variante AWS EC2 t2.micro**
 2. **Weitere Evaluierung:** Es wird empfohlen, eine detaillierte Evaluierung unter Berücksichtigung aller benötigten AWS-Dienste durchzuführen, um eine maßgeschneiderte Lösung zu finden.
 
 Diese vereinfachte Übung zeigt, dass eine Cloud-Migration zu EC2 t2.micro und S3 für Ihr Unternehmen kostengünstiger sein kann. Beachten Sie jedoch, dass dies nur ein erster Schritt ist und weitere Aspekte und Services in einer umfassenderen Evaluierung berücksichtigt werden sollten.
-
----
-
-**Leistungsnachweis:**
-
-- Kostenkalkulation für alle drei Varianten (1 Jahr / 3 Jahre).
-- Empfehlung einer Variante mit Begründung.
-- Differenziert und nachvollziehbar im persönlichen Repository dokumentiert.
-- Fachgespräch mit Coach.
-
