@@ -33,5 +33,16 @@ Für die Region **North Virginia (us-east-1)** gelten folgende On-Demand Preise:
 
 ---
 
+## Scaling
+
+Horizontal Scaling
+
+
+
+Vertical Scaling
+
+
+---
+
 ## Fazit
 **t2.micro** ist gut für einfache und günstige Anwendungen. **m4.xlarge** ist besser für anspruchsvollere Aufgaben und grössere Datenmengen. Die Wahl hängt davon ab, was die Anwendung braucht und wie viel Budget zur Verfügung steht.
