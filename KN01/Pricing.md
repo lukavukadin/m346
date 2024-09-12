@@ -28,7 +28,6 @@ Für die Region **North Virginia (us-east-1)** gelten folgende On-Demand Preise:
 ### m4.xlarge
 - **Geeignet für**:
   - Datenbankserver
-  - Datenintensive Anwendungen
   - Verteilte Systeme
   - Machine Learning-Workloads
 
