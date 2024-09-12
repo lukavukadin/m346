@@ -37,7 +37,7 @@ Das Unternehmen mit 50 Mitarbeitern betreibt derzeit die IT On-Premises. Die mon
 | Kostenart                          | Betrag   |
 |------------------------------------|----------|
 | AWS EC2 m4.xlarge (Var. B)          | 143.28 USD|
-| AWS S3-Speicher 20TB                | 276.48 USD|
+| AWS S3-Speicher 20TB                | 471.04 USD|
 | Weitere Kosten (Administration etc.)| 2'000.-   |
 | **Gesamtkosten AWS X-Large**        | **2'419.76 USD** |
 
