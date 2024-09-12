@@ -22,7 +22,7 @@ Das Unternehmen mit 50 Mitarbeitern betreibt derzeit die IT On-Premises. Die mon
 
 | Kostenart                          | Betrag   |
 |------------------------------------|----------|
-| AWS EC2 t2.micro (Var. A)           | 8.60 USD  |
+| AWS EC2 t2.micro (Var. A)           | 11.66 USD |
 | AWS S3-Speicher 20TB                | 4.00 USD  |
 | Weitere Kosten (Administration etc.)| 1'000.-   |
 | **Gesamtkosten AWS Low**            | **1'012.60 USD** |
