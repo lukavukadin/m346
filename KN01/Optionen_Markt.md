@@ -79,13 +79,3 @@ Auf Basis meiner Analyse bietet **Microsoft Azure** eine kostengünstigere Lösu
 
 1. **Migration zu Microsoft Azure:** Die Kostenvorteile und die enge Integration mit Microsoft-Produkten können für mein Unternehmen vorteilhaft sein.
 2. **Weitere Evaluierung:** Es wird empfohlen, spezifische Anforderungen des Unternehmens zu berücksichtigen und möglicherweise eine Testmigration durchzuführen, um die Eignung der Plattform zu überprüfen.
-
----
-
-**Leistungsnachweis:**
-
-- Vergleich der Kosten und Funktionen von AWS und Microsoft Azure.
-- Analyse der Performance und Verfügbarkeit der beiden Cloud-Provider.
-- Differenzierte und nachvollziehbare Dokumentation der Ergebnisse.
-- Präsentation der Ergebnisse und Fachgespräch mit Coach.
-
