@@ -48,9 +48,9 @@ Das Unternehmen mit 50 Mitarbeitern betreibt derzeit die IT On-Premises. Die mon
 
 | Variante         | Pro Monat | Pro Jahr   | 3 Jahre    |
 |------------------|-----------|------------|------------|
-| On-Premises       | 7'500.-   | 90'000.-   | 270'000.-  |
-| t2.micro          | 1'012.60 USD | 12'151.20 USD | 36'453.60 USD |
-| m4.xlarge         | 1'147.28 USD | 13'767.36 USD | 41'302.08 USD |
+| On-Premises       | 9'500.-   | 114'000.-   | 342'000.-  |
+| t2.micro          | 2'482.70.- | 29'792.40.- | 89'377.20.-|
+| m4.xlarge         | 2'419.76.-| 29'037.12.-   | 87'111.36.-  |
 
 ## Schritt 4: Vorteile und Nachteile der Cloud
 
