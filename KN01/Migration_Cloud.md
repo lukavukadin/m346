@@ -54,18 +54,18 @@ Das Unternehmen mit 50 Mitarbeitern betreibt derzeit die IT On-Premises. Die mon
 
 ## Schritt 4: Vorteile und Nachteile der Cloud
 
-### Vorteile
+### Vorteile:
 
-- **Flexibilität:** Skalierbarkeit nach Bedarf, keine Notwendigkeit für Überprovisionierung.
-- **Wartung:** Keine Hardware-Wartung oder -Erneuerung erforderlich.
-- **Kostenkontrolle:** Möglichkeit zur Anpassung der Ressourcen basierend auf Nutzung.
-- **Zugänglichkeit:** Zugriff auf modernste Technologien und globale Verfügbarkeit.
+Hohe Flexibilität und Skalierbarkeit nach Bedarf.
+Keine Hardware-Wartung oder Erneuerung erforderlich.
+Kostenkontrolle durch Anpassung der Ressourcen an die Nutzung.
+Zugriff auf neueste Technologien mit globaler Verfügbarkeit.
 
-### Nachteile
+### Nachteile:
 
-- **Langfristige Kosten:** Höhere monatliche Kosten im Vergleich zu On-Premises, besonders bei leistungsstärkeren Instanzen.
-- **Abhängigkeit von Internet:** Ständige Internetverbindung erforderlich.
-- **Sicherheitsbedenken:** Daten müssen auf Drittanbieter-Servern gespeichert werden.
+Langfristig höhere Kosten im Vergleich zu eigenen Servern.
+Abhängigkeit vom Internet für den Zugriff.
+Sicherheitsrisiken durch Speicherung der Daten bei Drittanbietern.
 
 ## Schritt 5: Empfehlung Lösungsvorschlag
 
