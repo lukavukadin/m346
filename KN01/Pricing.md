@@ -35,12 +35,14 @@ Für die Region **North Virginia (us-east-1)** gelten folgende On-Demand Preise:
 
 ## Scaling
 
-Horizontal Scaling
+### Horizontal Scaling
+
+Bei horizontalem Scaling fügst du zusätzliche Instanzen (z.B. t2.micro) hinzu, um die Last zu verteilen und die Performance zu steigern. In AWS kann Auto Scaling dies automatisch erledigen, wenn der Bedarf steigt.
 
 
+### Vertical Scaling
 
-Vertical Scaling
-
+Beim vertikalen Scaling erhöhst du die Leistung einer einzelnen Instanz, z.B. durch den Wechsel von t2.micro zu m4.xlarge, um mehr Rechenleistung oder Speicher zu bekommen.
 
 ---
 
