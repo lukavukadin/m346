@@ -14,7 +14,7 @@ Das Unternehmen mit 50 Mitarbeitern betreibt derzeit die IT On-Premises. Die mon
 | Server (HPE Proliant)              | 2'500.-   |
 | Netzwerk und weitere Geräte        | 2'500.-   |
 | Diverses (Lizenzen etc.)           | 2'500.-   |
-| **Gesamtkosten On-Premises**       | **7'500.-** |
+| **Gesamtkosten On-Premises**       | **9'500.-** |
 
 ## Schritt 2a: Kostenanalyse Variante Low - AWS Instance-Type t2.micro
 
