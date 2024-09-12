@@ -1,7 +1,7 @@
 # AWS On-Demand Pricing und Instanzvergleich
 
 ## Ausgangslage
-In dieser Übung haben wir die AWS Management Console verwendet, um das On-Demand Pricing-Modell von Amazon EC2 kennenzulernen. Der Fokus lag auf einem Vergleich zwischen den Instanztypen **t2.micro** und **m4.xlarge** für eine Laufzeit von einem Monat. Zudem wurden mögliche Use-Cases für beide Instanztypen untersucht.
+In dieser Übung habe ich die AWS Management Console verwendet, um das On-Demand Pricing-Modell von Amazon EC2 kennenzulernen. Der Fokus lag auf einem Vergleich zwischen den Instanztypen **t2.micro** und **m4.xlarge** für eine Laufzeit von einem Monat. Zudem wurden mögliche Use-Cases für beide Instanztypen gesucht.
 
 ---
 
