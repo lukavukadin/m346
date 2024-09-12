@@ -12,7 +12,7 @@ Für die Region **North Virginia (us-east-1)** gelten folgende On-Demand Preise:
 | Instanztyp   | Stündlicher Preis (USD) | Monatlicher Preis (USD)       |
 |--------------|--------------------------|-------------------------------|
 | **t2.micro** | $0.0162                  | $0.0162 × 24 × 30 = $11.66    |
-| **m4.xlarge**| $0.384                     | $0.2 × 24 × 30 = $276.48    |
+| **m4.xlarge**| $0.384                     | $0.384 × 24 × 30 = $276.48    |
 
 ---
 
