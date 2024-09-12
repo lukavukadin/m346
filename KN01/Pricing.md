@@ -37,14 +37,13 @@ Für die Region **North Virginia (us-east-1)** gelten folgende On-Demand Preise:
 
 ### Horizontal Scaling
 
-Bei horizontalem Scaling fügst du zusätzliche Instanzen (z.B. t2.micro) hinzu, um die Last zu verteilen und die Performance zu steigern. In AWS kann Auto Scaling dies automatisch erledigen, wenn der Bedarf steigt.
-
+Beim horizontalen Scaling fügst du einfach weitere Instanzen wie t2.micro hinzu, um mehr Anfragen gleichzeitig bearbeiten zu können. AWS Auto Scaling kann das automatisch machen, sobald die Last steigt.
 
 ### Vertical Scaling
 
-Beim vertikalen Scaling erhöhst du die Leistung einer einzelnen Instanz, z.B. durch den Wechsel von t2.micro zu m4.xlarge, um mehr Rechenleistung oder Speicher zu bekommen.
+Beim vertikalen Scaling verstärkst du eine bestehende Instanz, indem du sie z.B. von t2.micro auf m4.xlarge aufrüstest, damit sie mehr Leistung und Speicher hat.
 
 ---
 
 ## Fazit
-**t2.micro** ist gut für einfache und günstige Anwendungen. **m4.xlarge** ist besser für anspruchsvollere Aufgaben und grössere Datenmengen. Die Wahl hängt davon ab, was die Anwendung braucht und wie viel Budget zur Verfügung steht.
+**t2.micro** ist gut für einfache und günstige Anwendungen. **m4.xlarge** ist besser für anspruchsvollere Aufgaben und grössere Datenmengen. Die Wahl hängt davon ab, was die Anwendung braucht und wie viel Budget zur Verfügung steht. 
