@@ -70,11 +70,12 @@ Das Unternehmen mit 50 Mitarbeitern betreibt derzeit die IT On-Premises. Die mon
 
 ## Schritt 5: Empfehlung Lösungsvorschlag
 
-Auf Basis der Kostenanalyse empfiehlt es sich, die **Variante AWS EC2 t2.micro** in Betracht zu ziehen. Diese Variante bietet eine signifikant niedrigere Gesamtkosten über 3 Jahre im Vergleich zur On-Premises-Lösung und zur m4.xlarge-Instanz. Für ein kleines Unternehmen mit 50 Mitarbeitern, das möglicherweise keine extremen Leistungsanforderungen hat, ist diese Lösung kosteneffektiv und ausreichend.
+Auf Basis der Kostenanalyse empfehle ich die **AWS EC2 t2.micro**-Instanz. Diese Option ist viel günstiger als die On-Premises-Lösung und die größere m4.xlarge-Instanz. Für ein kleines Unternehmen mit 50 Mitarbeitern ist sie gut geeignet und spart Geld.
 
-**Lösungsvorschlag:**
+**Vorschlag:**
 
-1. **Migration zur AWS EC2 t2.micro und S3:** Kostengünstige Alternative, die alle grundlegenden Anforderungen abdeckt.
-2. **Weitere Evaluierung:** Es wird empfohlen, eine detaillierte Evaluierung unter Berücksichtigung aller benötigten AWS-Dienste durchzuführen, um eine maßgeschneiderte Lösung zu finden.
+1. **Wechsel zu AWS EC2 t2.micro und S3:** Günstig und erfüllt die grundlegenden Anforderungen.
+2. **Weitere Prüfung:** Es ist sinnvoll, genau zu prüfen, welche weiteren AWS-Dienste benötigt werden.
 
-Diese vereinfachte Übung zeigt, dass eine Cloud-Migration zu EC2 t2.micro und S3 für Ihr Unternehmen kostengünstiger sein kann. Beachten Sie jedoch, dass dies nur ein erster Schritt ist und weitere Aspekte und Services in einer umfassenderen Evaluierung berücksichtigt werden sollten.
+Insgesamt spart die Cloud-Migration zu EC2 t2.micro und S3 Geld. Eine genauere Analyse sollte jedoch erfolgen, um alle Bedürfnisse zu berücksichtigen.
+
