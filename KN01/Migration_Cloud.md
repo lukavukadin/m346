@@ -90,3 +90,4 @@ Auf Basis der Kostenanalyse empfehle ich die **AWS EC2 t2.micro**-Instanz. Diese
 
 Insgesamt spart die Cloud-Migration zu EC2 t2.micro und S3 Geld. Eine genauere Analyse sollte jedoch erfolgen, um alle Bedürfnisse zu berücksichtigen.
 
+# Credits
