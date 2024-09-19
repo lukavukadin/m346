@@ -52,3 +52,7 @@ Cloud-Dienste lassen sich schnell anpassen, sodass Unternehmen bei Bedarf ganz e
 
 ### Aktivität 2
 
+Die Aktivität 2 wird in KN01 unter Servicemodelle dargestellt
+
+
+
