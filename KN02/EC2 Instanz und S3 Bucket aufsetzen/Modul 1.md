@@ -1,6 +1,5 @@
 # Modul 1
 
----
 
 **1. Stellen Sie sich vor, eines Ihrer Social-Media-Konten würde gehackt und alle Ihre Daten würden öffentlich gemacht oder als Lösegeld gehalten. Wie würden Sie sich dabei fühlen? Glauben Sie, dass der Kompromiss das Risiko wert ist, alle Cloud-Dienste zur Hand zu haben?:**
 
