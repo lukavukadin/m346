@@ -32,7 +32,6 @@ Unternehmen können viel Geld sparen, weil sie keine teure Hardware kaufen oder 
 - Flexibilität:
 Cloud-Dienste lassen sich schnell anpassen, sodass Unternehmen bei Bedarf ganz einfach mehr Ressourcen hinzunehmen oder reduzieren können. Das hilft, flexibel auf Veränderungen zu reagieren.
 
----
 
 **Fazit**
 
