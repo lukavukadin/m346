@@ -50,13 +50,7 @@ Nachdem du die Aktivität abgeschlossen hast, sei bereit, diese Fragen zu beantw
 1. Vergleiche dein Diagramm mit dem eines anderen Schülers. Gibt es Unterschiede? Was ist gleich?
 2. Wie sind Regionen, Verfügbarkeitszonen und Edge-Standorte miteinander verbunden?
 
-
-
-### Fazit
-
-
-
---- 
+---
 
 ### Aktivität 2
 
