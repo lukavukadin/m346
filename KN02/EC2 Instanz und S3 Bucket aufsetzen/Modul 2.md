@@ -51,7 +51,12 @@ Befolge die Anweisungen deines Lehrers, um die Aktivität abzuschließen. Hier s
 Nachdem du die Aktivität abgeschlossen hast, sei bereit, diese Fragen zu beantworten und zu diskutieren:
 
 1. Vergleiche dein Diagramm mit dem eines anderen Schülers. Gibt es Unterschiede? Was ist gleich?
+   
+   - Es könnte Unterschiede in der Anordnung oder Detaillierung geben, aber die Hauptkomponenten sind oft ähnlich.
+     
 2. Wie sind Regionen, Verfügbarkeitszonen und Edge-Standorte miteinander verbunden?
+
+  - Regionen haben mehrere Verfügbarkeitszonen, die schnell miteinander kommunizieren. Edge-Standorte sind da, um Daten näher zu den Nutzern zu bringen und arbeiten eng mit den Regionen zusammen.
 
 ---
 
