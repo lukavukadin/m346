@@ -1,4 +1,5 @@
-# Modul 2
+# Modul 2: Strukturen der Cloud
+
 
 **1. Wie erhält Ihr Computer Informationen aus dem Internet? Wenn Sie eine Website öffnen, woher kommt die Website? Wer stellt die Daten zur Verfügung? Nutzen Sie in Ihrer Antwort, was Sie über Informatik und Cloud Computing gelernt haben."**
 
