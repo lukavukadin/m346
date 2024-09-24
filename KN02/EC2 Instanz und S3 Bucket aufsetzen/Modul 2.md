@@ -8,8 +8,9 @@
 
 - Ich nutze Canva und ChatGPT, beide laufen vollständig in der Cloud und ich verwende sie hauptsächlich für schulische Aufgaben. Sie sind kostenlos zugänglich, weil sie auf einem Freemium-Modell basieren, bei dem Basisfunktionen gratis sind und erweiterte Funktionen kostenpflichtig.
 
-**3. Immer mehr Programme und Apps werden von der lokalen Speicherung auf einzelnen Computern in die Cloud verlagert. 
+**3. Immer mehr Programme und Apps werden von der lokalen Speicherung auf einzelnen Computern in die Cloud verlagert. Beispielsweise nutzen viele Menschen inzwischen internetbasierte Textverarbeitungsprogramme anstelle von Software wie Microsoft Word und Spotify anstelle von CDs und MP3-Playern. Welches weitere Programm oder welcher Dienst wird Ihrer Meinung nach in die Cloud verlagert? Warum bewegt sich Ihrer Meinung nach die Technologie in Richtung Cloud Computing? Begründen Sie Ihre Ideen auf der Grundlage dessen, was Sie zuvor über Cloud Computing gelernt haben.**
 
+- Ein  Beispiel für die Verlagerung in die Cloud ist Spiele-Streaming. Dienste wie Google Stadia ermöglichen es Nutzern, anspruchsvolle Spiele direkt über die Cloud zu spielen, ohne teure Hardware zu benötigen, was den Zugang zu hochwertigen Spielen erheblich vereinfacht. Die Verlagerung von Diensten in die Cloud ermöglicht schnellen, ortsunabhängigen Zugriff und reduziert den Bedarf an lokaler Speicherung und Kabelmanagement. Dadurch wird die Nutzung flexibler und effizienter, da man nicht mehr vor Ort sein muss.
 
 
 --- 
