@@ -52,5 +52,38 @@ Nachdem du die Aktivität abgeschlossen hast, sei bereit, diese Fragen zu beantw
 
 ---
 
-### Aktivität 2
+
+## Aktivität 2: Arten von Cloud-Diensten
+
+## Ziele
+
+- Erkenne die Arten des Cloud-Computings.
+- Vergleiche die Arten des Cloud-Computings.
+
+## Übersicht
+
+In dieser Aktivität lernst du die drei verschiedenen Arten von Cloud-Diensten kennen. Wir werden die Vorteile der Nutzung dieser Cloud-Dienste im Vergleich zu traditionellen Modellen besprechen.
+
+## Aktivitätsanweisungen
+
+Befolge die Anweisungen deines Lehrers, um die Aktivität abzuschließen.
+
+## Reflexion
+
+Nachdem du die Aktivität abgeschlossen hast, sei bereit, diese Frage zu beantworten und zu diskutieren:
+
+Eine Kinderärztin mit einer Privatpraxis hat so viele Patientenakten, dass sie keinen Platz mehr in ihren Aktenschränken hat. Aus diesem Grund möchte sie ihre Daten in die Cloud verlagern. Sie möchte sicherstellen, dass die Daten sicher sind, und möchte, dass ihre Patienten in der Lage sind, ihre medizinischen Unterlagen online sicher zuzugreifen und mit ihr zu kommunizieren. Beschreibe eine Möglichkeit, wie du jeden Typ von Cloud-Service nutzen kannst und wie dies ihrem Geschäft zugutekommen würde.
+
+### Beispielantworten
+
+1. **Infrastructure as a Service (IaaS)**: Die Kinderärztin könnte einen IaaS-Anbieter wie AWS oder Microsoft Azure nutzen, um ihre Serverinfrastruktur in die Cloud zu verlagern. Dadurch könnte sie die Kosten für Hardware reduzieren und ihre Daten sicher speichern, ohne sich um physische Server kümmern zu müssen.
+
+2. **Platform as a Service (PaaS)**: Sie könnte eine PaaS-Lösung wie Google App Engine verwenden, um eine benutzerdefinierte Anwendung zu entwickeln, die es ihren Patienten ermöglicht, sicher auf ihre medizinischen Unterlagen zuzugreifen und mit ihr zu kommunizieren. Das vereinfacht die Entwicklung und Wartung der Anwendung.
+
+3. **Software as a Service (SaaS)**: Die Kinderärztin könnte SaaS-Anwendungen wie einen elektronischen Gesundheitsakten-Dienst (z.B. Practice Fusion oder Athenahealth) nutzen. Diese Dienste bieten bereits sichere und konforme Plattformen, auf denen Patienten ihre Daten verwalten und kommunizieren können, ohne dass die Ärztin sich um die technischen Aspekte kümmern muss.
+
+### Vorteile für ihr Geschäft
+
+Die Verwendung dieser Cloud-Dienste würde der Kinderärztin helfen, ihre Patientenakten sicher und effizient zu verwalten, während sie gleichzeitig den Zugang für ihre Patienten erleichtert. Darüber hinaus könnte sie Zeit und Kosten sparen, indem sie die Notwendigkeit physischer Infrastruktur und Wartung reduziert.
+
 
