@@ -4,7 +4,7 @@
 
 - Wenn ich eine Website öffne, kommen die Informationen von einem Server, der die Seite im Internet bereitstellt. Der Server sendet die Daten an meinen Computer, damit die Website angezeigt werden kann.
 
-**2. Was ist ein Programm oder eine App, die Sie verwenden und die vollständig in der Cloud läuft, sodass Sie nichts auf Ihrem Computer oder Gerät speichern müssen? Wozu nutzen Sie das Programm? Wie wird Ihnen das Programm Ihrer Meinung nach zu geringen oder keinen Kosten zur Verfügung gestellt?
+**2. Was ist ein Programm oder eine App, die Sie verwenden und die vollständig in der Cloud läuft, sodass Sie nichts auf Ihrem Computer oder Gerät speichern müssen? Wozu nutzen Sie das Programm? Wie wird Ihnen das Programm Ihrer Meinung nach zu geringen oder keinen Kosten zur Verfügung gestellt?**
 
 - Ich nutze Canva und ChatGPT, beide laufen vollständig in der Cloud und ich verwende sie hauptsächlich für schulische Aufgaben. Sie sind kostenlos zugänglich, weil sie auf einem Freemium-Modell basieren, bei dem Basisfunktionen gratis sind und erweiterte Funktionen kostenpflichtig.
 
