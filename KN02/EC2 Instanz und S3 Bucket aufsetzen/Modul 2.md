@@ -1,6 +1,8 @@
 # Modul 2: Strukturen der Cloud
 
 
+## Fragen
+
 **1. Wie erhält Ihr Computer Informationen aus dem Internet? Wenn Sie eine Website öffnen, woher kommt die Website? Wer stellt die Daten zur Verfügung? Nutzen Sie in Ihrer Antwort, was Sie über Informatik und Cloud Computing gelernt haben."**
 
 - Wenn ich eine Website öffne, kommen die Informationen von einem Server, der die Seite im Internet bereitstellt. Der Server sendet die Daten an meinen Computer, damit die Website angezeigt werden kann.
@@ -61,15 +63,15 @@ Nachdem du die Aktivität abgeschlossen hast, sei bereit, diese Fragen zu beantw
 - Erkenne die Arten des Cloud-Computings.
 - Vergleiche die Arten des Cloud-Computings.
 
-## Übersicht
+### Übersicht
 
 In dieser Aktivität lernst du die drei verschiedenen Arten von Cloud-Diensten kennen. Wir werden die Vorteile der Nutzung dieser Cloud-Dienste im Vergleich zu traditionellen Modellen besprechen.
 
-## Aktivitätsanweisungen
+### Aktivitätsanweisungen
 
 Befolge die Anweisungen deines Lehrers, um die Aktivität abzuschließen.
 
-## Reflexion
+### Reflexion
 
 Nachdem du die Aktivität abgeschlossen hast, sei bereit, diese Frage zu beantworten und zu diskutieren:
 
