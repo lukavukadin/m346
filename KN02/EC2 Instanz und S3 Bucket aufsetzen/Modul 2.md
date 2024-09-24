@@ -55,7 +55,7 @@ Nachdem du die Aktivität abgeschlossen hast, sei bereit, diese Fragen zu beantw
 
 ## Aktivität 2: Arten von Cloud-Diensten
 
-## Ziele
+### Ziele
 
 - Erkenne die Arten des Cloud-Computings.
 - Vergleiche die Arten des Cloud-Computings.
