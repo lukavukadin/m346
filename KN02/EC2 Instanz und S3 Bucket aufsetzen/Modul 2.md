@@ -1,9 +1,8 @@
 # Modul 2: Strukturen der Cloud
 
-
 ## Fragen
 
-**1. Wie erhält Ihr Computer Informationen aus dem Internet? Wenn Sie eine Website öffnen, woher kommt die Website? Wer stellt die Daten zur Verfügung? Nutzen Sie in Ihrer Antwort, was Sie über Informatik und Cloud Computing gelernt haben."**
+**1. Wie erhält Ihr Computer Informationen aus dem Internet? Wenn Sie eine Website öffnen, woher kommt die Website? Wer stellt die Daten zur Verfügung? Nutzen Sie in Ihrer Antwort, was Sie über Informatik und Cloud Computing gelernt haben.**
 
 - Wenn ich eine Website öffne, kommen die Informationen von einem Server, der die Seite im Internet bereitstellt. Der Server sendet die Daten an meinen Computer, damit die Website angezeigt werden kann.
 
@@ -13,10 +12,9 @@
 
 **3. Immer mehr Programme und Apps werden von der lokalen Speicherung auf einzelnen Computern in die Cloud verlagert. Beispielsweise nutzen viele Menschen inzwischen internetbasierte Textverarbeitungsprogramme anstelle von Software wie Microsoft Word und Spotify anstelle von CDs und MP3-Playern. Welches weitere Programm oder welcher Dienst wird Ihrer Meinung nach in die Cloud verlagert? Warum bewegt sich Ihrer Meinung nach die Technologie in Richtung Cloud Computing? Begründen Sie Ihre Ideen auf der Grundlage dessen, was Sie zuvor über Cloud Computing gelernt haben.**
 
-- Ein  Beispiel für die Verlagerung in die Cloud ist Spiele-Streaming. Dienste wie Google Stadia ermöglichen es Nutzern, anspruchsvolle Spiele direkt über die Cloud zu spielen, ohne teure Hardware zu benötigen, was den Zugang zu hochwertigen Spielen erheblich vereinfacht. Die Verlagerung von Diensten in die Cloud ermöglicht schnellen, ortsunabhängigen Zugriff und reduziert den Bedarf an lokaler Speicherung und Kabelmanagement. Dadurch wird die Nutzung flexibler und effizienter, da man nicht mehr vor Ort sein muss.
+- Ein Beispiel für die Verlagerung in die Cloud ist Spiele-Streaming. Dienste wie Google Stadia ermöglichen es Nutzern, anspruchsvolle Spiele direkt über die Cloud zu spielen, ohne teure Hardware zu benötigen, was den Zugang zu hochwertigen Spielen erheblich vereinfacht. Die Verlagerung von Diensten in die Cloud ermöglicht schnellen, ortsunabhängigen Zugriff und reduziert den Bedarf an lokaler Speicherung und Kabelmanagement. Dadurch wird die Nutzung flexibler und effizienter, da man nicht mehr vor Ort sein muss.
 
-
---- 
+---
 
 ## Aktivität 1: Visualisierung der AWS Global Infrastructure
 
@@ -51,15 +49,14 @@ Befolge die Anweisungen deines Lehrers, um die Aktivität abzuschließen. Hier s
 Nachdem du die Aktivität abgeschlossen hast, sei bereit, diese Fragen zu beantworten und zu diskutieren:
 
 1. Vergleiche dein Diagramm mit dem eines anderen Schülers. Gibt es Unterschiede? Was ist gleich?
-   
+
    - Es könnte Unterschiede in der Anordnung oder Detaillierung geben, aber die Hauptkomponenten sind oft ähnlich.
-     
+
 2. Wie sind Regionen, Verfügbarkeitszonen und Edge-Standorte miteinander verbunden?
 
-  - Regionen haben mehrere Verfügbarkeitszonen, die schnell miteinander kommunizieren. Edge-Standorte sind da, um Daten näher zu den Nutzern zu bringen und arbeiten eng mit den Regionen zusammen.
+   - Regionen haben mehrere Verfügbarkeitszonen, die schnell miteinander kommunizieren. Edge-Standorte sind da, um Daten näher zu den Nutzern zu bringen und arbeiten eng mit den Regionen zusammen.
 
 ---
-
 
 ## Aktivität 2: Arten von Cloud-Diensten
 
@@ -94,4 +91,24 @@ Eine Kinderärztin mit einer Privatpraxis hat so viele Patientenakten, dass sie 
 
 Die Verwendung dieser Cloud-Dienste würde der Kinderärztin helfen, ihre Patientenakten sicher und effizient zu verwalten, während sie gleichzeitig den Zugang für ihre Patienten erleichtert. Darüber hinaus könnte sie Zeit und Kosten sparen, indem sie die Notwendigkeit physischer Infrastruktur und Wartung reduziert.
 
+---
 
+## Optionaler Anschluss
+
+
+**Ziel**: Erstelle eine Rubrik für die Auswahl einer Cloud-Region, basierend auf folgenden Faktoren:
+
+1. **AWS-Kosten**: Unterschiede zwischen Regionen, wichtig für Kosteneffizienz.  
+   - **Wichtigkeit**: Hoch, besonders für kleinere Unternehmen.
+
+2. **Verfügbarkeit von Diensten**: Nicht alle Regionen bieten alle AWS-Dienste.  
+   - **Wichtigkeit**: Sehr hoch, da fehlende Dienste den Betrieb beeinträchtigen.
+
+3. **Geschwindigkeit/Latenz**: Näher gelegene Regionen bieten schnelleren Zugriff.  
+   - **Wichtigkeit**: Hoch, besonders bei latenzkritischen Anwendungen.
+
+4. **Resilienz**: Hohe Ausfallsicherheit, um Datenverluste zu vermeiden.  
+   - **Wichtigkeit**: Sehr hoch für geschäftskritische Anwendungen.
+
+5. **Datenrechte**: Rechtliche Vorschriften können die Region beeinflussen.  
+   - **Wichtigkeit**: Hoch, besonders bei sensiblen Daten.
