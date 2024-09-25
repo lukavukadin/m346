@@ -32,18 +32,18 @@ Im Folgenden sind die drei wichtigen Schritte zur Erstellung einer EC2-Instanz z
 
 Im ersten Schritt habe ich eine EC2-Instanz mit dem Namen **Web Server 1** erstellt. Auf dem Screenshot sieht man die **öffentliche IPv4-Adresse**, mit der die Website abgerufen werden kann. Damit dies jedoch funktioniert, musste eine Sicherheitsregel erstellt werden, um den Zugriff zu erlauben.
 
-<img src="https://github.com/user-attachments/assets/c54b63f8-b3aa-4f66-ba70-48ed1f730ee1" alt="EC2 Instanz erstellt" width="30%"/>
+<img src="https://github.com/user-attachments/assets/c54b63f8-b3aa-4f66-ba70-48ed1f730ee1" alt="EC2 Instanz erstellt" width="80%"/>
 
 ### 2. Erstellen der Sicherheitsregel
 
 Um den Zugriff auf den Webserver zu ermöglichen, musste eine **Sicherheitsregel** hinzugefügt werden, die den HTTP-Verkehr zulässt. Dies erlaubt es, über den Browser auf die Website zuzugreifen. Auf dem Bild ist die erstellte Regel zu sehen, die sicherstellt, dass die Website nun erreichbar ist.
 
-<img src="https://github.com/user-attachments/assets/c4ba4ed0-0f17-47f1-865e-14998e428656" alt="Sicherheitsregel erstellt" width="30%"/>
+<img src="https://github.com/user-attachments/assets/c4ba4ed0-0f17-47f1-865e-14998e428656" alt="Sicherheitsregel erstellt" width="80%"/>
 
 ### 3. Website-Abruf
 
 Nachdem die Sicherheitsregel erfolgreich hinzugefügt wurde, konnte ich die Website aufrufen. Die Website hat den Text **"Hello World"** korrekt ausgegeben, was zeigt, dass der Webserver erfolgreich läuft.
 
-<img src="https://github.com/user-attachments/assets/c94aa32b-ea90-49e0-a533-e5444c44d261" alt="Website mit Hello World" width="30%"/>
+<img src="https://github.com/user-attachments/assets/c94aa32b-ea90-49e0-a533-e5444c44d261" alt="Website mit Hello World" width="80%"/>
 
 
