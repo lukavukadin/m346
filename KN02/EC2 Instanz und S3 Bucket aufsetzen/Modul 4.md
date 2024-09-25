@@ -47,12 +47,30 @@ Nachdem die Sicherheitsregel erfolgreich hinzugefügt wurde, konnte ich die Webs
 
 ## Aktivität 2: Erstellen eines S3-Buckets
 
-Im Folgenden sind wieder die drei wichtigen Schritte zur Erstellung eines S3-Buckets
+Im Folgenden sind die drei wichtigen Schritte zur Erstellung eines S3-Buckets zusammengefasst:
 
-### 1.
+### 1. Erstellen eines S3-Buckets
+
+<img src="https://github.com/user-attachments/assets/14f2c466-caac-4000-b933-c2d27ed189bb" alt="S3 Bucket erstellt" width="80%"/>
+
+Im ersten Schritt habe ich einen S3-Bucket mit dem Namen **MeinBucket** erstellt. Auf dem Screenshot ist der erstellte Bucket zu sehen.
+
+### 2. Hochladen der index.html-Datei
+
+<img src="https://github.com/user-attachments/assets/19483528-d48a-442e-ac62-0ab6d9326627" alt="index.html Datei hochgeladen" width="80%"/>
+
+Hier habe ich die **index.html**-Datei in meinen Bucket hinzugefügt. Dies ist notwendig, um die statische Website korrekt bereitzustellen.
+
+### 3. Definieren der statischen Website
+
+<img src="https://github.com/user-attachments/assets/3f2f0c79-6973-4856-9ceb-003db03de764" alt="Statische Website definiert" width="80%"/>
+
+Im nächsten Schritt habe ich definiert, dass die Website statisch ist. Dies ermöglicht den Zugriff auf die Inhalte des Buckets über das Internet.
+
+### 4. Website-Abruf
+
+<img src="https://github.com/user-attachments/assets/0f13173f-2edf-4920-888f-89258deda155" alt="Website abgerufen" width="80%"/>
+
+Nachdem die statische Website konfiguriert wurde, konnte ich die Website abrufen. Die Anzeige hat so ausgesehen:
 
 
-### 2.
-
-
-### 3.
