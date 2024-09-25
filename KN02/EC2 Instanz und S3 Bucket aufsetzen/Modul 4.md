@@ -12,7 +12,7 @@ In diesem Modul lernst du, wie du eine Amazon Elastic Compute Cloud (Amazon EC2)
    - **Zusammenfassung:** Während ich als Nutzer Unterhaltung suche, nutzt der Entwickler die Plattform, um durch Werbung Geld zu verdienen. Die Zwecke sind zwar miteinander verbunden, aber letztlich unterschiedlich.
 
 2. **Welche Faktoren sind wichtig bei der Namensgebung einer Website und warum? Wie beeinflusst der Name das Nutzererlebnis und die Eindrücke der Website? Welche zwei Faktoren sind dir am wichtigsten bei der Namenswahl?**
-   - **Wichtige Faktoren bei der Namensgebung:** Ein Name sollte eindeutig und nicht verwechselbar mit anderen sein. Er sollte kurz, einprägsam und leicht merkbar sein.  
+   - **Wichtige Faktoren bei der Namensgebung:** Ein Name sollte eindeutig und nicht verwechselbar mit anderen sein. Er sollte kurz und leicht einmerkbar sein.  
    - **Beispiel:** Der neue Name von Twitter, "X", ist ein interessantes Beispiel. Designtechnisch ist der Name minimalistisch, aber viele Nutzer identifizieren die Plattform weiterhin als "Twitter". Der Name "X" ist so kurz, dass er für eine App nicht aussagekräftig genug erscheint.  
    - **Zwei wichtige Faktoren:** Eindeutigkeit und Wiedererkennungswert sind für mich am wichtigsten. Ein klarer, prägnanter Name bleibt im Gedächtnis und sorgt dafür, dass die Website leicht gefunden und wiedererkannt wird.
 
