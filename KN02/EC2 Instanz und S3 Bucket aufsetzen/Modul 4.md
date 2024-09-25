@@ -45,3 +45,14 @@ Nachdem die Sicherheitsregel erfolgreich hinzugefügt wurde, konnte ich die Webs
 <img src="https://github.com/user-attachments/assets/c94aa32b-ea90-49e0-a533-e5444c44d261" alt="Website mit Hello World" width="80%"/>
 
 
+## Aktivität 2: Erstellen eines S3-Buckets
+
+Im Folgenden sind wieder die drei wichtigen Schritte zur Erstellung eines S3-Buckets
+
+### 1.
+
+
+### 2.
+
+
+### 3.
