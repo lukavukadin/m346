@@ -20,9 +20,7 @@ In diesem Modul lernst du, wie du eine Amazon Elastic Compute Cloud (Amazon EC2)
    - **Meine Meinung:** Es ist schwierig, eine klare Alternative zum aktuellen Modell zu finden, in dem Websites durch Datensammlung finanziert werden. Eine Verbesserung wäre, wenn Websites sich nur durch Werbung finanzieren würden und nicht durch den Verkauf von Nutzerdaten.  
    - **Transparenz:** Websites sollten transparenter darüber informieren, welche Daten gesammelt werden, und es sollte stets die Möglichkeit geben, sich von der Datensammlung abzumelden. Dies würde das Vertrauen der Nutzer stärken und die Privatsphäre besser schützen.
 
-## Aktivität 1: Erstellen einer EC2-Instanz
-
-Im Folgenden sind die drei wichtigen Schritte zur Erstellung einer EC2-Instanz zusammengefasst:
+---
 
 ## Aktivität 1: Erstellen einer EC2-Instanz
 
