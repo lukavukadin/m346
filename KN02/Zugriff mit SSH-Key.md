@@ -21,3 +21,5 @@ Zum Abschluss habe ich eine Übersicht der erstellten EC2-Instanz aufgenommen. D
 <img src="https://github.com/user-attachments/assets/37110c76-5c68-4e15-83d3-b370c5bd27ee" alt="Erfolgreicher Login" width="80%"/>
 
 
+## Quellen
+- Alles selber gemacht
