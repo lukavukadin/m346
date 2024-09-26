@@ -59,3 +59,6 @@ In dieser Aktivität analysierst du reale Branchenbeispiele und wie Unternehmen 
 ### Wichtige Erkenntnisse
 - Flexibilität und Skalierbarkeit sind die größten Vorteile von Cloud-Diensten wie AWS. Sie ermöglichen es Unternehmen, ihre IT-Infrastruktur kosteneffizient zu betreiben und auf sich ändernde Anforderungen schnell zu reagieren.
 - AWS Lambda bietet durch serverloses Computing eine Möglichkeit, Anwendungen ohne komplexe Infrastruktur zu betreiben. Dies spart Kosten und Wartungsaufwand.
+
+## Quellen
+- Die Module von der AWS console einfach durchgearbeitet.
