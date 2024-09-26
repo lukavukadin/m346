@@ -26,7 +26,7 @@
   - Ideal für Entwicklungs- und Testumgebungen.
 
 ## 4. Begriff "Hyperscaler"
-- **Definition:** Hyperscaler sind Unternehmen, die große Rechenzentren und Cloud-Infrastrukturen betreiben, um enorme Mengen an Daten zu verarbeiten und zu speichern. Sie bieten skalierbare Cloud-Dienste für Unternehmen und Endbenutzer.
+- **Definition:** Hyperscaler sind Unternehmen, die grosse Rechenzentren und Cloud-Infrastrukturen betreiben, um enorme Mengen an Daten zu verarbeiten und zu speichern. Sie bieten skalierbare Cloud-Dienste für Unternehmen und Endbenutzer.
 - **Beispiele:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP).
 
 ## 5. Schichten von Cloud-Systemen
@@ -34,3 +34,6 @@
 - **Plattform (PaaS):** Bereitstellung von Entwicklungs- und Bereitstellungsumgebungen, die es Entwicklern ermöglichen, Anwendungen ohne sich um die zugrunde liegende Infrastruktur zu kümmern, zu erstellen.
 - **Software (SaaS):** Bereitstellung von Software-Anwendungen über das Internet, die von den Benutzern abgerufen und genutzt werden, ohne dass eine lokale Installation erforderlich ist.
 
+## Quellen
+
+Git-Repository und chatGPT
