@@ -21,6 +21,7 @@ packages:
   - wget 
 ```
 
+---
 
 **1. Dies ist ein Kommentar, der angibt, dass der folgende Inhalt eine Cloud-init Konfiguration im YAML-Format ist:**
 
