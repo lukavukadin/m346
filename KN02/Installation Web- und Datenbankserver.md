@@ -25,15 +25,20 @@ Hier wird die Verbindung zwischen Apache und PHP installiert:
 
 <img src="https://github.com/user-attachments/assets/2e3cda67-27bb-4298-8932-33be685838ea" alt="Apache PHP Verbindung" width="50%">
 
-## 6. MariaDB Server Installation
+## 6. MySQLi-Erweiterung für PHP
+installiert die MySQLi-Erweiterung für PHP mit Administratorrechten und bestätigt automatisch alle Eingaben:
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/7b60fa1e-22fa-48d1-8e3d-68bc4c6968c6">
+
+## 7. MariaDB Server Installation
 Nun installiere ich den MariaDB Server:
 
 <img src="https://github.com/user-attachments/assets/0b219b0f-0fff-4eb6-a88b-b0aba574591d" alt="MariaDB Installation" width="50%">
 
-## 7. Serverstatus
+## 8. Serverstatus
 Ich habe die Server neu gestartet und den Status überprüft:
 
 <img src="https://github.com/user-attachments/assets/07d3a517-b84d-4e7a-8648-12b33ccce152" alt="Serverstatus" width="50%">
+
 
 ## Webzugriff überprüfen
 
