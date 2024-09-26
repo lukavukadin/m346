@@ -1,5 +1,8 @@
 # Cloud-init Datei verstehen
 
+**Erklären Sie alle Zeilen der Cloud-init Datei in folgendem Schema.**
+
+
 ```
 #cloud-config
 users:
