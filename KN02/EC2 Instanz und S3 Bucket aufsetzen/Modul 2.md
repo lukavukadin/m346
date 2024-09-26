@@ -112,3 +112,6 @@ Die Verwendung dieser Cloud-Dienste würde der Kinderärztin helfen, ihre Patien
 
 5. **Datenrechte**: Rechtliche Vorschriften können die Region beeinflussen.  
    - **Wichtigkeit**: Hoch, besonders bei sensiblen Daten.
+
+## Quellen
+- Die Module von der AWS console einfach durchgearbeitet.
