@@ -55,4 +55,7 @@ Cloud-Dienste lassen sich schnell anpassen, sodass Unternehmen bei Bedarf ganz e
 Die Aktivität 2 wird in KN01 unter Servicemodelle dargestellt
 
 
+## Quellen
+- Die Module von der AWS console einfach durchgearbeitet.
+
 
