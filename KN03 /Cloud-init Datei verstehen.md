@@ -101,10 +101,16 @@ package_update: true
 packages:
 ```
 
-**13.Fügt das Paket curl zur Installationsliste hinzu. curl ist ein Tool zur Über:**
+**13. Fügt das Paket curl zur Installationsliste hinzu. curl ist ein Tool zur Übertragung von Daten mit URL-Syntax.**
 
 ```
   - curl
+```
+
+**14. Fügt das Paket wget zur Installationsliste hinzu. wget ist ein beliebtes Tool zum Herunterladen von Dateien aus dem Internet.**
+
+```
+  - wget
 ```
 
 
