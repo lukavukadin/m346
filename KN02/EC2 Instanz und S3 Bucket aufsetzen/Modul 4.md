@@ -75,5 +75,6 @@ Nachdem die statische Website konfiguriert wurde, konnte ich die Website abrufen
 
 <img src="https://github.com/user-attachments/assets/0f13173f-2edf-4920-888f-89258deda155" alt="Website abgerufen" width="80%"/>
 
-
+## Quellen
+- Die Module von der AWS console einfach durchgearbeitet.
 
