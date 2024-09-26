@@ -36,18 +36,12 @@
 ## 7. Remote Desktop-Verbindung öffnen
 - Öffnen Sie die Remote Desktop-Verbindung und geben Sie die Verbindungsdaten ein.
 
-*Platz für Bild und genaue Beschreibung hinzufügen.*
 
 ## 8. Warten, bis die VM ausgeführt ist
 - Warten Sie, bis die virtuelle Maschine vollständig gestartet ist.
 
-*Platz für Bild und genaue Beschreibung hinzufügen.*
 
 ## 9. VM ist einsatzbereit
 - Die VM ist jetzt einsatzbereit und kann verwendet werden.
 
-*Platz für Bild und genaue Beschreibung hinzufügen.*
 
----
-
-**Hinweis:** Stellen Sie sicher, dass alle Schritte vollständig abgeschlossen sind und die VM korrekt konfiguriert ist, bevor Sie sie in Ihrer Umgebung verwenden.
