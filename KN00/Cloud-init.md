@@ -31,7 +31,7 @@ Man erstellst ein Cloud-init Skript, fügt es beim Erstellen der Instanz als "Us
 
 **Infrastructure as Code** (IaC) ist ein Ansatz zur automatisierten Verwaltung von Infrastruktur. Mit IaC können Instanzen in der Cloud schnell und konsistent bereitgestellt werden, indem die Konfiguration als Code definiert wird. Dies erhöht die Effizienz und verringert menschliche Fehler.
 
-## Vorteile von IaC
+**Vorteile von IaC**
 
 - **Schnelle Bereitstellung**: Ressourcen können in Minuten erstellt werden.
 - **Konsistenz**: Gleiche Konfigurationen werden jedes Mal gleich umgesetzt.
@@ -40,7 +40,7 @@ Man erstellst ein Cloud-init Skript, fügt es beim Erstellen der Instanz als "Us
 
 ## Beispiel für IaC
 
-Hier ist ein einfaches Beispiel für IaC mit **Terraform**, um eine AWS-Instanz zu erstellen:
+Hier ist ein einfaches Beispiel für IaC mit einem AWS-Instanz zu erstellen:
 
 ```hcl
 resource "aws_instance" "mein-server" {
