@@ -1,4 +1,4 @@
-# Webserver und Datenbank Setup auf EC2
+## Webserver und Datenbank Setup auf EC2
 
 ## 1. Apache Webserver
 **Die obige Abbildung zeigt die Standard-Startseite des Apache Webservers. Dies bestätigt, dass der Apache Webserver erfolgreich installiert und ausgeführt wird.**
