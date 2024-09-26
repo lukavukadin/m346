@@ -1,5 +1,6 @@
 # Cloud-init Datei verstehen
 
+```
 #cloud-config
 users:
   - name: ubuntu
@@ -15,3 +16,5 @@ package_update: true
 packages:
   - curl 
   - wget 
+```
+
