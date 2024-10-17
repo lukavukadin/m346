@@ -50,7 +50,8 @@ Der Zugriff mit dem zwetien Schlüssel Luka-2.pem schlägt fehl, weil der zweite
 
 Im Cloud-Init Output Log kann man erkennen, dass die Konfiguration erfolgreich war. Es wurden die notwendigen Software-Pakete, wie wget und curl, installiert, was bedeutet, dass die Konfiguration vollständig erfolgreich war.
 
-![image](https://github.com/user-attachments/assets/c9a3fd26-c5ff-4286-abd8-a402be392e9e)
+![image](https://github.com/user-attachments/assets/f32c4660-1055-47c4-b2a0-9600ae34aaf1)
+
 
 
 
