@@ -1,26 +1,50 @@
-# SSH-Key und Cloud-init
+# Dokumentation: Instanz mit Cloud-Init deployen
 
-1. Cloud-Init-Logdatei
-   
-Hier sieht man dass Cloud init erfolgreich geestarte wurde und die wichtigsten inforormationen anzeigt
+## 1. Cloud-Init Config Datei
 
-![Screenshot 2024-10-11 112245](https://github.com/user-attachments/assets/22f8d360-167a-46c9-b075-9bf16f69a302)
-![Screenshot 2024-10-11 112308](https://github.com/user-attachments/assets/ed7e2629-3594-4b29-bd0d-b8a61ae4fb00)
+Für die Erstellung der Instanz haben wir eine Cloud-Init Konfigurationsdatei verwendet. Diese Datei ist im Repository abgelegt und enthält die notwendigen Einstellungen für den Zugriff über SSH.
+
+### Beispiel der Cloud-Init Datei
+
+```yaml
+#cloud-config
+users:
+  - default
+  - name: ubuntu
+    ssh-authorized-keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDhQ8vwJIRsyfGmiAMOVHa5zewH0QzAcgDTmuy5Xi+VL93iJzep7PaalZ9eWLqiMn+r2XQ6yddldnwhl6fswq6vpgDw4QZFvuT0azGwcOF0LMWzikuIj9G/spAutVubwFyivY46msuloGVn3fFY+Q6YsiIQCvLLrJQFE1ZAvF+lqGgW6V24Wo40WpEU+0m2EaU4VSbqmGegHSkEGl7lT4orwzQ/BgFmAFB+yyyzPQkYl1OVSO1JHAkWdj5g+ESWg8K7p9OgIut608C8KybwaSxCLQy9D4dFZVZJBROx172LvPcUVJ5n1cZ1B9ZfKx42YHo52wJCX6RLJd1DwUbY51eF luka
+```
+
+## 2. Verwendete Key
+
+Beim Start der Instanz wurde der Schlüssel Luka-2.pem verwendet. In der Cloud-Init Datei ist der Public Key von Luka-2.pem als autorisierter Schlüssel angegeben.
+
+![image](https://github.com/user-attachments/assets/e2e8d3d0-0225-4264-8789-560147ea9160)
 
 
-2. Cloud-Init Verison
+## 3. SSH Login mit erstem Key
 
-Hier sieht man die Verison von Clou-Init die ich verwendet habe
+Der Zugriff mit dem ersten Schlüssel Luka-1.pem schlägt fehl, da dieser nicht in der Cloud-Init Datei als autorisierter Schlüssel eingetragen ist.
 
-![image](https://github.com/user-attachments/assets/23e7f9df-608b-4bb2-b2ac-538c501168f6)
+![image](https://github.com/user-attachments/assets/547e1e70-f16d-4614-837f-c5c61019e272)
 
+## 4. SSH Login mit zweitem Key
 
+Der Zugriff mit dem zweiten Schlüssel Luka-2.pem gelingt erfolgreich, da dieser in der Cloud-Init Datei als autorisierter Schlüssel definiert wurde.
 
-3. Netzwerkgeräteinformationen
-
-Hier sieht man die IP-Adresse udn andere Netzwerkinformationen.
-
-![image](https://github.com/user-attachments/assets/4972f6e9-c742-43ce-9f83-b5aa4cac92b5)
+![image](https://github.com/user-attachments/assets/769e2a05-e134-4c9f-946d-bf4ef5f94a39)
 
 
-4. 
+## 5. Cloud-Init Output Log
+
+Im Cloud-Init Output Log kann man erkennen, dass die Konfiguration erfolgreich war. Es wurden die notwendigen Software-Pakete, wie wget und curl, installiert, was bedeutet, dass die Konfiguration vollständig erfolgreich war.
+
+![image](https://github.com/user-attachments/assets/c9a3fd26-c5ff-4286-abd8-a402be392e9e)
+
+
+
+## 6. Überprüfen der Installation 
+
+Hier in diesem Screenshot sieht man die erfolgreiche INstallation von curl und wget 
+
+![image](https://github.com/user-attachments/assets/92dccce4-0a3e-4941-95a5-b7e7b454c76e)
