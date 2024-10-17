@@ -28,20 +28,20 @@ packages:
 
 ## 2. Verwendete Key
 
-Beim Start der Instanz wurde der Schlüssel Luka-2.pem verwendet. In der Cloud-Init Datei ist der Public Key von Luka-2.pem als autorisierter Schlüssel angegeben.
+Beim Start der Instanz wurde der Schlüssel Luka-2.pem verwendet. In der Cloud-Init Datei ist der Public Key von Luka-1.pem als autorisierter Schlüssel angegeben.
 
 ![image](https://github.com/user-attachments/assets/e2e8d3d0-0225-4264-8789-560147ea9160)
 
 
 ## 3. SSH Login mit erstem Key
 
-Der Zugriff mit dem ersten Schlüssel Luka-1.pem schlägt fehl, da dieser nicht in der Cloud-Init Datei als autorisierter Schlüssel eingetragen ist.
+Der Zugriff mit dem ersten Schlüssel Luka-1.pem gelingt erfolgreich, da dieser in der Cloud-Init Datei als autorisierter Schlüssel definiert wurde.
 
 ![image](https://github.com/user-attachments/assets/547e1e70-f16d-4614-837f-c5c61019e272)
 
 ## 4. SSH Login mit zweitem Key
 
-Der Zugriff mit dem zweiten Schlüssel Luka-2.pem gelingt erfolgreich, da dieser in der Cloud-Init Datei als autorisierter Schlüssel definiert wurde.
+Der Zugriff mit dem zwetien Schlüssel Luka-2.pem schlägt fehl, weil der zweite Schlüssel von der Cloud-Init Config überschrieben wurde.
 
 ![image](https://github.com/user-attachments/assets/769e2a05-e134-4c9f-946d-bf4ef5f94a39)
 
