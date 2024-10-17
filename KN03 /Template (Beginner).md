@@ -27,7 +27,21 @@ Das Ziel dieser Aufgabe war es, SSH-Zugriff auf eine EC2-Instanz mit mehreren Sc
 nano ~/.ssh/authorized_keys
 ```
 
+3. **Einfügen des öffentlichen Schlüssels:**
 
+Ich habe den Schlüssel in die Datei eingefügt und die Datei gespeichert.
+
+![image](https://github.com/user-attachments/assets/6b993b4d-7061-42e7-bd67-9fa63fc9a11b)
+
+
+
+### 3. Sicherstellen, dass ich weiterhin Zugriff habe
+Um sicherzustellen, dass ich mich weiterhin mit meinem eigenen Schlüssel (Luka-1.pem) anmelden kann, habe ich die authorized_keys-Datei nicht verändert, die bereits meinen Schlüssel enthielt.
+
+
+### 4. Überprüfung der Konnektivität
+Ich habe versucht, mich mit meinem Schlüssel (Luka-1.pem) anzumelden, um zu bestätigen, dass alles funktioniert:
 
    
-
+### Fazit
+Ich habe erfolgreich den Zugriff auf die EC2-Instanz für meinen Lehrer eingerichtet, während ich gleichzeitig meinen eigenen Zugriff beibehalten habe. Beide Schlüssel sind jetzt in der authorized_keys-Datei vorhanden, was bedeutet, dass sowohl mein Lehrer als auch ich uns anmelden können.
