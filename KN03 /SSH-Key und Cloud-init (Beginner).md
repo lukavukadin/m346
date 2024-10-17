@@ -37,13 +37,13 @@ Beim Start der Instanz wurde der Schlüssel Luka-2.pem verwendet. In der Cloud-I
 
 Der Zugriff mit dem ersten Schlüssel Luka-1.pem gelingt erfolgreich, da dieser in der Cloud-Init Datei als autorisierter Schlüssel definiert wurde.
 
-![image](https://github.com/user-attachments/assets/547e1e70-f16d-4614-837f-c5c61019e272)
+![image](https://github.com/user-attachments/assets/87ffab87-ea71-4611-a2c0-a106cda8e43c)
 
 ## 4. SSH Login mit zweitem Key
 
 Der Zugriff mit dem zwetien Schlüssel Luka-2.pem schlägt fehl, weil der zweite Schlüssel von der Cloud-Init Config überschrieben wurde.
 
-![image](https://github.com/user-attachments/assets/769e2a05-e134-4c9f-946d-bf4ef5f94a39)
+![image](https://github.com/user-attachments/assets/94cf2cb6-e221-415d-b465-83543487f2b8)
 
 
 ## 5. Cloud-Init Output Log
@@ -58,4 +58,5 @@ Im Cloud-Init Output Log kann man erkennen, dass die Konfiguration erfolgreich w
 
 Hier in diesem Screenshot sieht man die erfolgreiche Installation von curl und wget 
 
-![image](https://github.com/user-attachments/assets/92dccce4-0a3e-4941-95a5-b7e7b454c76e)
+![image](https://github.com/user-attachments/assets/97608bd2-f786-4f8b-9775-53868228df94)
+
