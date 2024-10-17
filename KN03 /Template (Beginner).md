@@ -16,18 +16,18 @@ Das Ziel dieser Aufgabe war es, SSH-Zugriff auf eine EC2-Instanz mit mehreren Sc
 ### 2. Hinzufügen des öffentlichen Schlüssels zur `authorized_keys`-Datei
 - Ich habe den öffentlichen Schlüssel meines Lehrers in die Datei `~/.ssh/authorized_keys` auf der EC2-Instanz eingefügt. Hier sind die Schritte, die ich dafür unternommen habe:
 
-1. **Mit der EC2-Instanz verbinden**:
+#### Mit der EC2-Instanz verbinden**:
    ```bash
    ssh -i "C:\Users\vukadinl\Luka-1.pem" ubuntu@54.81.9.226
+```
 
-
-2. **Öffnen der authorized_keys-Datei:**
+#### Öffnen der authorized_keys-Datei:**
 
 ```
 nano ~/.ssh/authorized_keys
 ```
 
-3. **Einfügen des öffentlichen Schlüssels:**
+#### Einfügen des öffentlichen Schlüssels:
 
 Ich habe den Schlüssel in die Datei eingefügt und die Datei gespeichert.
 
