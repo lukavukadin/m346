@@ -45,6 +45,6 @@ Im Cloud-Init Output Log kann man erkennen, dass die Konfiguration erfolgreich w
 
 ## 6. Überprüfen der Installation 
 
-Hier in diesem Screenshot sieht man die erfolgreiche INstallation von curl und wget 
+Hier in diesem Screenshot sieht man die erfolgreiche Installation von curl und wget 
 
 ![image](https://github.com/user-attachments/assets/92dccce4-0a3e-4941-95a5-b7e7b454c76e)
