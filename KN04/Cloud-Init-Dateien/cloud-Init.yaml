@@ -1,1 +1,40 @@
+#cloud-config
+users:
+  - name: luka
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin
+    home: /home/luka
+    shell: /bin/bash
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDhQ8vwJIRsyfGmiAMOVHa5zewH0QzAcgDTmuy5Xi+VL93iJzep7PaalZ9eWLqiMn+r2XQ6yddldnwhl6fswq6vpgDw4QZFvuT0azGwcOF0LMWzikuIj9G/spAutVubwFyivY46msuloGVn3fFY+Q6YsiIQCvLLrJQFE1ZAvF+lqGgW6V24Wo40WpEU+0m2EaU4VSbqmGegHSkEGl7lT4orwzQ/BgFmAFB+yyyzPQkYl1OVSO1JHAkWdj5g+ESWg8K7p9OgIut608C8KybwaSxCLQy9D4dFZVZJBROx172LvPcUVJ5n1cZ1B9ZfKx42YHo52wJCX6RLJd1DwUbY51eF
+disable_root: false
+package_update: true  
+packages:
+  - apache2
+  - php
+write_files:
+  - content: |
+      <?php phpinfo(); ?>
+    path: /var/www/html/info.php
+    permissions: '0644'
+write_files:
+  - content: |
+      <?php
+      $ihrname = "Luka";
+      ?>
 
+      <html>
+      <head>
+        <title><?php echo $ihrname; ?></title>
+      </head>
+      <body>
+        <h1>Willkommen auf der Webseite von <?php echo $ihrname; ?></h1>
+        <br />
+        <img src="https://luka-unique-s3-bucket.s3.amazonaws.com/croatia_sea.jpg" alt="Bild aus S3-Bucket">
+      </body>
+      </html>
+    path: /var/www/html/index.php
+    permissions: '0644'
+runcmd:
+  - sudo systemctl enable apache2
+  - sudo systemctl start apache2
