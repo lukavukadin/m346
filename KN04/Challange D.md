@@ -1,3 +1,6 @@
+# Speicherdienste und entsprechende Eigenschaften kennen (Beginner)
+
+
 | **Eigenschaft**         | **EBS (Elastic Block Store)** | **S3 (Simple Storage Service)** | **EFS (Elastic File System)**   |
 |-------------------------|-------------------------------|---------------------------------|---------------------------------|
 | **Speichertyp**          | Block Storage                 | Object Storage                  | File Storage                   |
