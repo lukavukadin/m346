@@ -28,6 +28,6 @@ Hier sieht man die `db.php` Datei:
 
 ## Telnet-Port-Test
 
-Der Telnet-Port-Test konnte nicht erfolgreich durchgeführt werden, da ich keine Administratorrechte auf meinem Gerät habe. Deshalb konnte ich den Befehl `telnet <IP> 3306` nicht ausführen. 
+Der Telnet-Port-Test konnte ich nicht erfolgreich durchgeführen, da ich keine Administratorrechte auf meinem Gerät habe. Deshalb konnte ich den Befehl `telnet <IP> 3306` nicht ausführen. 
 
-Alternativ haben wir die Verbindung zur Datenbank erfolgreich getestet, indem wir uns über das Admin-Interface mit den Anmeldedaten verbunden haben. Dies bestätigte, dass die Verbindung funktioniert.
+Alternativ habe ich die Verbindung zur Datenbank erfolgreich getestet, indem ich mich über das Admin-Interface mit den Anmeldedaten verbunden habe. Dies bestätigte, dass die Verbindung funktioniert.
