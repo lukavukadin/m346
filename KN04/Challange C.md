@@ -10,32 +10,34 @@ Ich habe eine EC2-Instanz mit Windows Server 2022 erstellt und ein zusätzliches
 1. **EC2-Instanz erstellen**:  
    Ich habe eine **Windows Server 2022 Base Instanz** mit dem Typ **t2.micro** über die AWS Management Console gestartet und ein bestehendes **Key-Pair** verwendet.
 
-   *Bild von der Erstellung der Instanz einfügen*
 
 2. **Inbound-Rule für RDP hinzufügen**:  
    Ich habe in der **Security Group** eine **Inbound-Regel** für **RDP (Port 3389)** hinzugefügt.
 
-   *Bild der hinzugefügten Inbound-Rule einfügen*
+![image](https://github.com/user-attachments/assets/846cef74-f5ca-4d29-bee5-7959babdcdf5)
 
 3. **RDP-Verbindung zur Instanz**:  
    Ich habe eine **RDP-Verbindung** zur Instanz aufgebaut, indem ich den **Public DNS Name**, **Username** (Administrator) und das entschlüsselte **Password** verwendet habe.
 
-   *Bild der RDP-Verbindung einfügen*
+![image](https://github.com/user-attachments/assets/270332e2-2569-4a8e-86ea-9e6de5e52bd8)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/e2b25ea4-feaf-4254-9dfb-1b4d777a8756">
 
 4. **EBS-Volume erstellen und anhängen**:  
    Ich habe ein neues **EBS-Volume** mit **20 GB** erstellt und an die laufende Instanz angehängt.
 
-   *Bild des erstellten und angehängten Volumes einfügen*
+![image](https://github.com/user-attachments/assets/499bab7a-772b-43f4-9e23-a111592b8309)
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/2ec97609-68b4-48f6-bff3-f029343c4db0">
 
 5. **Volume initialisieren und formatieren**:  
    In der **Laufwerksverwaltung** habe ich das Volume **online** geschaltet, **initialisiert** und als **einfaches Volume** mit dem Laufwerksbuchstaben **D:** formatiert.
 
-   *Bild der Initialisierung und Formatierung des Volumes einfügen*
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/36f27528-1464-432d-b81e-1045b5057b44">
+
 
 6. **Verzeichnis erstellen**:  
    Auf Laufwerk **D:** habe ich einen Ordner mit dem Namen **M346_MeinNachname** erstellt.
 
-   *Bild des erstellten Verzeichnisses auf Laufwerk D: einfügen*
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/819037cd-563f-417e-9862-d1032c934a80">
 
 ---
 
