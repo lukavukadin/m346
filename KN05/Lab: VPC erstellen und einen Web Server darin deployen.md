@@ -6,7 +6,7 @@ Eine Virtual Private Cloud (VPC) ist ein privates Netzwerk in der Cloud, das man
 
 ## 1. VPC erstellen
 
-Zuerst habe ich eine neue VPC erstellt, in der ich später den Webserver betreiben werde. Dies geschieht über die AWS Management Console, wo man die grundlegenden Netzwerkeinstellungen wie CIDR-Blöcke und Subnetze festlegt.
+Zuerst habe ich eine neue VPC erstellt, in der ich später den Webserver betreiben werde.
 
 ### Screenshot: VPC Workflow erstellen
 
