@@ -10,7 +10,8 @@ Zuerst habe ich eine neue VPC erstellt, in der ich später den Webserver betreib
 
 ### Screenshot: VPC Workflow erstellen
 
-![VPC Workflow erstellen](path/to/screenshot_vpc.png)
+![image](https://github.com/user-attachments/assets/5a800174-7ced-486e-9880-c5feac4d44cb)
+
 
 ## Subnetze erstellen
 
@@ -18,7 +19,8 @@ Im nächsten Schritt habe ich zwei Subnetze angelegt: ein öffentliches Subnetz 
 
 ### Screenshot: Erstellen der Subnetze
 
-![Subnetze erstellen](path/to/screenshot_subnets.png)
+![image](https://github.com/user-attachments/assets/2b203cf4-7ecb-49d5-8ce2-dd79bcfc366b)
+
 
 ## Routing-Tabellen konfigurieren
 
@@ -26,7 +28,8 @@ Um sicherzustellen, dass das öffentliche Subnetz Internetzugang hat, habe ich e
 
 ### Screenshot: Routing-Tabelle
 
-![Routing-Tabelle](path/to/screenshot_routing_table.png)
+![image](https://github.com/user-attachments/assets/91dd48d1-828b-4253-b8d2-1d65faa6add6)
+
 
 ## Security Group erstellen
 
@@ -34,7 +37,8 @@ Als nächstes habe ich eine Security Group erstellt, um den Zugriff auf die EC2-
 
 ### Screenshot: Security Group erstellen
 
-![Security Group erstellen](path/to/screenshot_security_group.png)
+![image](https://github.com/user-attachments/assets/717e332d-b959-427f-b095-a0d579e48cd0)
+
 
 ## EC2-Instanz erstellen
 
@@ -42,7 +46,8 @@ Nun habe ich eine EC2-Instanz in der VPC gestartet. Dabei habe ich sichergestell
 
 ### Screenshot: EC2-Instanz erstellen
 
-![EC2-Instanz erstellen](path/to/screenshot_instance.png)
+![image](https://github.com/user-attachments/assets/8a7fd129-6f00-4a95-b263-603e63a66e01)
+
 
 ## Test des Webservers
 
@@ -50,9 +55,11 @@ Nach dem erfolgreichen Start der EC2-Instanz konnte ich über die zugewiesene ö
 
 ### Screenshot: Webseite (IP-Adresse und load.php)
 
-![Webseite mit IP-Adresse](path/to/screenshot_website_ip.png)
+![image](https://github.com/user-attachments/assets/15258f42-f3f1-4fe9-95ca-1a9f5f1b6422)
 
-![Webseite mit load.php](path/to/screenshot_website_load_php.png)
+
+![image](https://github.com/user-attachments/assets/de8d9f76-ba43-4382-897d-316f43071042)
+
 
 ## Fazit
 
