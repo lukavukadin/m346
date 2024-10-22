@@ -37,3 +37,13 @@ Subnet associations: Private-1A, Private-1B
 ### Create Internet Gateway
 Name: M346-VUK-IGW
 VPC: M346-VUK-VP
+
+
+## Erstellte M346-VUK-VPC
+
+In diesem Bild sieht man die Übersicht meiner erstellten VPC. Mithilfe der Schritt-für-Schritt-Anleitung von Herrn Calisto in Gitlab habe ich die VPC erfolgreich konfiguriert. Dabei bin ich sorgfältig vorgegangen und habe jeden Schritt genau nachvollzogen, um sicherzustellen, dass ich die einzelnen Komponenten und deren Zweck vollständig verstehe.
+
+Die Anleitung war klar strukturiert, was mir dabei geholfen hat, die VPC gemäß den Anforderungen zu erstellen und die notwendigen Ressourcen richtig zu konfigurieren.
+
+![image](https://github.com/user-attachments/assets/e8407934-10c4-4c40-b95b-057e02fc35e2)
+
