@@ -25,7 +25,7 @@ Name: M346-VUK-Private-1B
 Availability Zone: us-east-1b
 IPv4 CIDR Block: 10.0.4.0/24
 
-Public route table (Main)
+### Public route table (Main)
 Beim Erstellen der VPC wird diese automatisch erzeugt. Es muss einfach folgendes Feld ergänzt werden:
 Name: M346-VUK-Public-RT
 
