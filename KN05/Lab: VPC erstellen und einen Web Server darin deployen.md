@@ -6,7 +6,7 @@ Eine Virtual Private Cloud (VPC) ist ein privates Netzwerk in der Cloud, das man
 
 ## 1. VPC erstellen
 
-Zuerst habe ich eine neue VPC erstellt, in der ich später den Webserver betreiben werde.
+Zuerst habe ich eine neue VPC erstellt mit der einstellung, in der ich später den Webserver betreiben werde.
 
 ### Screenshot: VPC Workflow erstellen
 
