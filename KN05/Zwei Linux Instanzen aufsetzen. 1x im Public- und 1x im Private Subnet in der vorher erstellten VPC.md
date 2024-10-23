@@ -27,3 +27,19 @@
 5. Hier sieht man genauere Details von meiner Webserver Instance; Eine Öffnetliche IP wie es sein muss und sie fängt an mit 10.0.1.
 
 ![image](https://github.com/user-attachments/assets/a9c79fa3-2700-4146-b77b-7b1feb657b1f)
+
+
+6. Test ausführungen
+
+Zuerst habe ich getstet ob der Webserver mit meiner Öffenlichen Ip "http://18.234.159.209/" funktioniert und er hat funktioniert sieht man im Bild unten. Am Anfang hat es nicht funktioniert und ich musste dann Änderungen vornehmen.
+
+![image](https://github.com/user-attachments/assets/bbca4b2c-3fdc-4ac2-8e52-1dada5110242)
+
+
+Dann habe ich getestet ob der SSH Zugriff funktioniert der hat auch funktioniert.
+
+![image](https://github.com/user-attachments/assets/a7722169-2aa0-46df-8f5d-bff1f5fe89c3)
+
+
+Zum Schluss habe ich auch noch getestet, ob der Ping erfolgreich funktioniert. Und es hat nicht funktioniert.
+
