@@ -1,12 +1,12 @@
 # VPC mit je zwei Pulbic- und Private Subnets in zwei verschiedenen AZ erstellen
 
-### VPC erstellen mit diesen Angaben:
+### 1. Als erstes habe ich eine VPC erstellt mit diesen Angaben:
 
 Name: M346-VUK-VPC
 IPv4 CIDR Block: 10.0.0.0/16
 
 
-### Als nächstet die Subnets erstellen:
+### 2. Als nächstes die Subnets erstellen:
 
 **1. Subnetz**
    
@@ -31,18 +31,19 @@ Name: M346-VUK-Private-1B
 Availability Zone: us-east-1b
 IPv4 CIDR Block: 10.0.4.0/24
 
-### Als nächstes habe ich den Public und Private route Tabelle erstellt:
+### 3. Als nächstes habe ich den Public und Private route Tabelle erstellt:
 
-#### Public route table (Main)
+**Public route table (Main)**
 
 Beim Erstellen der VPC wird diese automatisch erzeugt. Es muss einfach folgendes Feld ergänzt werden:
 Name: M346-VUK-Public-RT
 
-#### Create private route table
+**Create private route table**
 
 Name: M346-VUK-Private-RT
 VPC: M346-VUK-VPC
 Subnet associations: Private-1A, Private-1B
+
 
 ### Zum Schluss habe ich noch das Internet Gateway:
 
