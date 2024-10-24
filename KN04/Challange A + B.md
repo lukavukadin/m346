@@ -25,7 +25,9 @@ Hier sieht man das Bild mit der angegebenen URL
 
 ![image](https://github.com/user-attachments/assets/98ffb9e9-a4c4-435d-bbf9-ea8817504d84)
 
+
 https://luka-unique-s3-bucket.s3.amazonaws.com/croatia_sea.jpg
+
 
 
 ----
