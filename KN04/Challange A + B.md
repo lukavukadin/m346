@@ -27,6 +27,10 @@ Hier sieht man das Bild mit der angegebenen URL
 
 https://luka-unique-s3-bucket.s3.amazonaws.com/croatia_sea.jpg
 
+
+### B) Mit "Cloud-init" einen Webserver aufsetzen mit Zugriff auf Bild im S3-Bucket (Advanced)
+
+
 ### Bild auf der Website
 
 Auf diesem Bild sieht man auch das hochgeladene Bild auf der Website
