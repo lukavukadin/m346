@@ -13,6 +13,7 @@ ssh_pwauth: false
 disable_root: false
 package_update: true
 package_upgrade: true
+package_reboot_if_requierd: true
 
 packages:
   - apache2
@@ -26,44 +27,3 @@ runcmd:
   - sudo a2enconf adminer
   - sudo systemctl reload apache2
   - sudo systemctl status apache2 >> /home/ubuntu/apache_logs.log
-
-write_files:
-  - path: /var/www/html/index.html
-    content: |
-      <!DOCTYPE html>
-      <html>
-      <body>
-      <h1>Hello world!</h1>
-      <p>This is a text.</p>
-      </body>
-      </html>
-
-  - path: /var/www/html/info.php
-    content: |
-      <?php
-      // M346: Zeige alle Informationen, defaults to INFO_ALL
-      phpinfo();
-      ?>
-
-  - path: /var/www/html/db.php
-    content: |
-      <?php
-      // M346 database
-      $servername = "172.31.41.82"; // Private IP des Datenbankservers
-      $username = "admin"; // Benutzername
-      $password = "12Luka21"; // Passwort
-      $dbname = "mysql";
-
-      // Create connection
-      $conn = new mysqli($servername, $username, $password, $dbname);
-      // Check connection
-      if ($conn->connect_error) {
-          die("Connection failed: " . $conn->connect_error);
-      }
-
-      $sql = "SELECT Host, User FROM mysql.user;";
-      $result = $conn->query($sql);
-      while($row = $result->fetch_assoc()) {
-          echo($row["Host"] . " / " . $row["User"] . "<br />");
-      }
-      ?>
