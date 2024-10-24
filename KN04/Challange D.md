@@ -23,4 +23,11 @@ Durch dieses Wissen kann ich nun fundierter entscheiden, welche Lösung für unt
 
 ### Quellen
 
-ChatGPT - 
+ChatGPT - Erkläre mir die drei Speicherdienste: EBS, S3 und EFS in diesen verschiednenen Kategorien: 
+
+Persistenz (Ja/Nein)
+Geschwindigkeit (grobe Unterteilung)
+Sicherheit (insbesondere bei Object-Storage)
+Standort (Region oder Global)
+Weitere Charakteristiken
+Use-case (Ein Anwendungsbeispiel für jeden Storage-Typ)
