@@ -1,5 +1,9 @@
 ### B) Mit "Cloud-init" einen Webserver aufsetzen mit Zugriff auf Bild im S3-Bucket (Advanced)
 
+### EC2 erstellen
+
+
+
 
 ### Bild auf der Website
 
