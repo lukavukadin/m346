@@ -1,11 +1,13 @@
 ### B) Mit "Cloud-init" einen Webserver aufsetzen mit Zugriff auf Bild im S3-Bucket (Advanced)
 
-### EC2 erstellen
+### 1. EC2 erstellen
+
+Zuerst habe ich die EC2 Instance erstellt mit dem Cloud-init Script, der unter Cloud-Init-Datein ist.
+
+![image](https://github.com/user-attachments/assets/70962d9c-8043-4055-916c-1231af069112)
 
 
-
-
-### Bild auf der Website
+### 2. Bild auf der Website
 
 Auf diesem Bild sieht man auch das hochgeladene Bild auf der Website
 
