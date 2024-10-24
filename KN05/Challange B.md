@@ -21,6 +21,7 @@ Availability Zone: us-east-1b
 IPv4 CIDR Block: 10.0.2.0/24
 
 **3. Subnetz**
+
 Name: M346-VUK-Private-1A
 Availability Zone: us-east-1a
 IPv4 CIDR Block: 10.0.3.0/24
@@ -31,11 +32,15 @@ Name: M346-VUK-Private-1B
 Availability Zone: us-east-1b
 IPv4 CIDR Block: 10.0.4.0/24
 
+<img width=50% height=50% alt="launch_instance" src="https://github.com/user-attachments/assets/d0d2d970-c966-4eaa-81a6-751970482495">
+
+
 ### 3. Als nächstes habe ich den Public und Private route Tabelle erstellt:
 
 **Public route table (Main)**
 
 Beim Erstellen der VPC wird diese automatisch erzeugt. Es muss einfach folgendes Feld ergänzt werden:
+
 Name: M346-VUK-Public-RT
 
 **Create private route table**
@@ -44,11 +49,15 @@ Name: M346-VUK-Private-RT
 VPC: M346-VUK-VPC
 Subnet associations: Private-1A, Private-1B
 
+<img width=50% height=50% alt="launch_instance" src="https://github.com/user-attachments/assets/192da91e-bb3b-4256-a451-a3ea6e0011db">
+ 
 
 ### 4. Zum Schluss habe ich noch das Internet Gateway konfiguriert:
 
 Name: M346-VUK-IGW
 VPC: M346-VUK-VP
+
+<img width=50% height=50% alt="launch_instance" src="https://github.com/user-attachments/assets/4eb90248-6e5f-4e8a-a02a-fb355417c93f">
 
 
 ## Hier sieht man meine Erstellte VPC M346-VUK-VPC
