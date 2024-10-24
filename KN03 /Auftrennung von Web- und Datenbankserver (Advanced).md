@@ -1,4 +1,4 @@
-# Datenbankserver
+# Auftrennung von Web- und Datenbankserver (Advanced)
 
 Hier sieht man die ausgefüllten Felder für die Verbindung mit dem Admin-Account:
 
