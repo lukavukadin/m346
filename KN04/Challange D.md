@@ -14,14 +14,6 @@
 
 ----
 
-### Fazit
-
-Als Einsteiger im Bereich der AWS-Speicherdienste ist es entscheidend, die Stärken und Schwächen der verschiedenen Speicherlösungen zu verstehen. EBS bietet hohe Leistung und Persistenz, ideal für datenintensive Anwendungen, die niedrige Latenz benötigen. S3 ist flexibler und eignet sich besonders für Backups und Datenarchivierung mit globalem Zugriff, während EFS eine gute Wahl für gemeinsam genutzte Dateisysteme ist, insbesondere bei verteilten Anwendungen oder Big Data-Workloads.
-
-Durch dieses Wissen kann ich nun fundierter entscheiden, welche Lösung für unterschiedliche Anforderungen am besten geeignet ist.
-
-----
-
 ### Quellen
 
 **ChatGPT** - Erkläre mir die drei Speicherdienste: EBS, S3 und EFS in diesen verschiednenen Kategorien: 
