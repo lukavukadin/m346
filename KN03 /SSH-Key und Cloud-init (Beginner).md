@@ -1,4 +1,4 @@
-# Dokumentation: Instanz mit Cloud-Init deployen
+# SSH-Key und Cloud-init (Beginner)
 
 ## 1. Cloud-Init Config Datei
 
