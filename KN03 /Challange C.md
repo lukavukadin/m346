@@ -45,3 +45,6 @@ Ich habe versucht, mich mit meinem Schlüssel (Luka-1.pem) anzumelden, um zu bes
    
 ### Fazit
 Ich habe erfolgreich den Zugriff auf die EC2-Instanz für meinen Lehrer eingerichtet, während ich gleichzeitig meinen eigenen Zugriff beibehalten habe. Beide Schlüssel sind jetzt in der authorized_keys-Datei vorhanden, was bedeutet, dass sowohl mein Lehrer als auch ich uns anmelden können.
+
+### Credits
+Kulici hat mir geholfen, damit der Key für Callisto funktioniert. Wir haben einen extra Test-Key erstellt, um prüfen zu können, ob das Format der Datei authorized_keys korrekt ist.
