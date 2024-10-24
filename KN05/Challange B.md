@@ -6,7 +6,7 @@ Name: M346-VUK-VPC
 IPv4 CIDR Block: 10.0.0.0/16
 
 
-### 2. Als nächstes die Subnets erstellen:
+### 2. In diesem Schritt habe ich die Subnetz erstellt:
 
 **1. Subnetz**
    
@@ -45,13 +45,13 @@ VPC: M346-VUK-VPC
 Subnet associations: Private-1A, Private-1B
 
 
-### Zum Schluss habe ich noch das Internet Gateway:
+### 4. Zum Schluss habe ich noch das Internet Gateway konfiguriert:
 
 Name: M346-VUK-IGW
 VPC: M346-VUK-VP
 
 
-## Erstellte M346-VUK-VPC
+## Hier sieht man meine Erstellte VPC M346-VUK-VPC
 
 In diesem Bild sieht man die Übersicht meiner erstellten VPC. Mithilfe der Schritt-für-Schritt-Anleitung von Herrn Calisto in Gitlab habe ich die VPC erfolgreich konfiguriert. Dabei bin ich sorgfältig vorgegangen und habe jeden Schritt genau nachvollzogen, um sicherzustellen, dass ich die einzelnen Komponenten und deren Zweck vollständig verstehe.
 
