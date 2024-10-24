@@ -36,10 +36,10 @@ Zuerst habe ich getstet ob der Webserver mit meiner Öffenlichen Ip "http://18.2
 ![image](https://github.com/user-attachments/assets/bbca4b2c-3fdc-4ac2-8e52-1dada5110242)
 
 
-Dann habe ich getestet ob der SSH Zugriff funktioniert der hat auch funktioniert.
+**Dann habe ich getestet ob der SSH Zugriff funktioniert der hat auch funktioniert.**
 
 ![image](https://github.com/user-attachments/assets/a7722169-2aa0-46df-8f5d-bff1f5fe89c3)
 
 
-Zum Schluss habe ich auch noch getestet, ob der Ping erfolgreich funktioniert. Und es hat nicht funktioniert.
+**Zum Schluss habe ich auch noch getestet, ob der Ping erfolgreich funktioniert. Und es hat nicht funktioniert.**
 
