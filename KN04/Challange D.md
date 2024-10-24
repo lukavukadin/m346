@@ -23,7 +23,7 @@ Durch dieses Wissen kann ich nun fundierter entscheiden, welche Lösung für unt
 
 ### Quellen
 
-ChatGPT - Erkläre mir die drei Speicherdienste: EBS, S3 und EFS in diesen verschiednenen Kategorien: 
+**ChatGPT** - Erkläre mir die drei Speicherdienste: EBS, S3 und EFS in diesen verschiednenen Kategorien: 
 
 Persistenz (Ja/Nein)
 Geschwindigkeit (grobe Unterteilung)
