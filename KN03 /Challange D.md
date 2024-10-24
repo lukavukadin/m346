@@ -5,6 +5,8 @@
 <img src="https://github.com/user-attachments/assets/5d76dcfb-433d-49d1-b1cc-08a084023862" alt="Verbindung mit Admin-Account" style="width:80%;"/>
 
 
+
+
 **In diesem Bild sieht man die erfolgreiche Verbindung:**
 
 <img src="https://github.com/user-attachments/assets/c09619be-4f41-49d1-b7e2-676c5db818ec" alt="Erfolgreiche Verbindung" style="width:80%;"/>
