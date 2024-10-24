@@ -18,7 +18,7 @@ Das Ziel dieser Aufgabe war es, SSH-Zugriff auf eine EC2-Instanz mit mehreren Sc
 
 #### Mit der EC2-Instanz verbinden**:
    ```bash
-   ssh -i "C:\Users\vukadinl\Luka-1.pem" ubuntu@54.81.9.226
+   ssh -i "C:\Users\vukadinl\Luka-1.pem" ubuntu@3.89.68.106
 ```
 
 #### Öffnen der authorized_keys-Datei:**
