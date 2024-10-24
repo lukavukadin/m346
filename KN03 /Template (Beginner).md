@@ -1,4 +1,4 @@
-# Dokumentation zur SSH-Zugriffsverwaltung auf EC2-Instanz
+# Template (Beginner)
 
 ## Ziel
 Das Ziel dieser Aufgabe war es, SSH-Zugriff auf eine EC2-Instanz mit mehreren Schlüsseln zu konfigurieren, um sowohl den Zugriff meines Lehrers als auch meinen eigenen Zugriff sicherzustellen.
