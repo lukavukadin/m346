@@ -42,5 +42,6 @@ Zuerst habe ich getstet ob der Webserver mit meiner Öffenlichen Ip "http://18.2
 
 
 
+
 **Zum Schluss habe ich auch noch getestet, ob der Ping erfolgreich funktioniert. Und es hat nicht funktioniert.**
 
