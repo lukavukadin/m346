@@ -14,12 +14,12 @@
 
 
 
-### 3. Nun habe ich die EC2 Webserver 2 Instance erstellt
+### 3. Nun habe ich die EC2-Instanz *Webserver 2* erstellt. Dies habe ich über Aktionen -> Image und Vorlagen --> weitere ähnliche Elemente auswählen. Dort muss man dann nur noch den Namne ändern der Instance und einen andere Sicherheitsgruppe auswäheln, bei uns jetzt us-east.1b
+
+![image](https://github.com/user-attachments/assets/8137c7c4-ce20-4427-a55d-e6b5df7621eb)
 
 
 ![image](https://github.com/user-attachments/assets/26000bfb-3b59-4155-bdd2-e88f8024a0cd)
-
-
 
 
 ### 4. Hier sieht man das ich den Webserver 2 öffnen konnte
