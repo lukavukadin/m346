@@ -109,3 +109,12 @@ Die ELB verteilt automatisch die Anfragen auf die verfügbaren Server. Wenn durc
 
 ---
 
+## Quellen
+
+#### ChatGPT:
+
+Hier habe ich ChatGPT genutzt, um die Fragen zu AWS Load Balancer und Auto Scaling einfacher und verständlicher zu beantworten. Die Idee war, die technischen Details so zu erklären, dass sie auch in einem Gespräch klar und nachvollziehbar bleiben. ChatGPT half dabei, alles kurz zusammenzufassen und auf den Punkt zu bringen.
+
+
+
+
