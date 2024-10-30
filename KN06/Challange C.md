@@ -45,7 +45,7 @@
 ### Fazit
 
 
-In diesem Projekt habe ich erfolgreich eine **Auto Scaling Group** erstellt und angewendet, die zuverlässig zwei EC2-Instanzen in den Availability Zones **us-east-1a** und **us-east-1b** betreibt. Der Auto Scaling Mechanismus zeigt eine hohe # Fazit
+In diesem Projekt habe ich erfolgreich eine **Auto Scaling Group** erstellt und angewendet, die zuverlässig zwei EC2-Instanzen in den Availability Zones **us-east-1a** und **us-east-1b** betreibt.
 
 Das Erstellen der **Auto Scaling Group** verlief größtenteils reibungslos, aber es gab ein paar Stolpersteine. Insbesondere musste ich in den **Subnetzeinstellungen von us-east-1a** die automatische IP-Zuweisung aktivieren, da die Instanz sonst nicht erreichbar war. 
 
