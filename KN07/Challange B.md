@@ -29,6 +29,41 @@
 
 ![image](https://github.com/user-attachments/assets/5f17dc08-f637-4e8f-8694-2916d7a25fe1)
 
+**Zeigt den verfügbaren und verwendeten Speicherplatz aller gemounteten Partitionen an:**
+```
+df -h
+```
+
+**Formatiert das Gerät /dev/sdf mit dem Dateisystem ext3:**
+```
+sudo mkfs -t ext3 /dev/sdf
+```
+
+**Erstellt ein Verzeichnis namens "data-store" unter /mnt, um es als Mount-Punkt zu verwenden:**
+```
+sudo mkdir /mnt/data-store
+```
+
+**Mountet das Gerät /dev/sdf im Verzeichnis /mnt/data-store mit ext3-Dateisystem und bestimmten Mount-Optionen (defaults, noatime). Fügt diese Konfiguration in /etc/fstab hinzu, damit das Laufwerk beim Systemstart automatisch gemountet wird:**
+```
+echo "sudo mount /dev/sdf /mnt/data-store ext3 defaults,noatime 1 2" | sudo tee -a /etc/fstab
+```
+
+**Zeigt den Inhalt der Datei /etc/fstab an, um die neuen Mount-Einstellungen zu überprüfen:**
+```
+cat /etc/fstab
+```
+
+**Schreibt den Text "some text has been written" in eine neue Datei namens file.txt im Verzeichnis /mnt/data-store:**
+```
+sudo sh -c "echo some text has been written > /mnt/data-store/file.txt"
+```
+
+**Zeigt den Inhalt der Datei /mnt/data-store/file.txt an, um die geschriebenen Daten zu überprüfen:**
+```
+cat /mnt/data-store/file.txt
+```
+
 
 ---
 
