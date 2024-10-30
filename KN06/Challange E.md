@@ -22,13 +22,16 @@
 ### 3. Hier sieht man das die beiden Instancen in einer unterschiedlichen Availability Zones liegen und der Status active ist.
 
 
+![image](https://github.com/user-attachments/assets/07f8d307-c8a9-4b50-a4ea-720c3e360451)
 
 
 
 ---
 ### 4. Jetzt sieht man auch die ID der jeweiligen Instance.
 
+![image](https://github.com/user-attachments/assets/aa78683f-b11f-41c5-9d3b-8cb68609af8e)
 
+![image](https://github.com/user-attachments/assets/5a083569-dd71-41f3-a0ee-2378d3cbdc3e)
 
 
 ---
