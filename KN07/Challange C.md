@@ -1,41 +1,46 @@
 # Webserver erstellen, Snapshot ziehen und daraus neues Volume erzeugen
 
-### 1.
+### 1. IAM Rolle erstellt
 
+####
+
+
+####
+
+---
+
+### 2. S3 Bucket erstellt
+
+####
+
+
+####
 
 
 ---
 
-### 2.
+### 3. EC2 Webserver erstellt
 
 
+####
 
 
----
-
-### 3.
-
-
+####
 
 
 ---
 
-### 4.
+### 4. Snapshots erstellt
+
+####
+
+
+####
+
+### Fazit
 
 
 
----
 
-### 5.
-
-
-
----
-
-### 6.
-
-
-
----
 
 ### Fazit
