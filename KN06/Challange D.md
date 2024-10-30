@@ -14,9 +14,11 @@
 
 ### 2. Jetzt habe ich den Load Balancer erstellt.
 
+![image](https://github.com/user-attachments/assets/6e73a5f3-2569-498d-9ea0-2be069a43a31)
 
 
 
+---
 
 ### 3.
 
