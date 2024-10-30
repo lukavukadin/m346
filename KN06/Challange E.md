@@ -38,6 +38,8 @@
 
 ### 5. Nun musste ich die Target Group erstellen.
 
+![image](https://github.com/user-attachments/assets/970b0941-dd49-4764-8a12-8daf5281b195)
+
 
 
 ---
