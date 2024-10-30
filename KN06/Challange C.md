@@ -19,42 +19,25 @@
 
 ---
 
-### 3. 
+### 3. Hier sieht man die erfolgreiche erstellte Instance us-east-1a
+
+
+![image](https://github.com/user-attachments/assets/7f1f95e0-a7a6-49c6-9049-4ab58e49666b)
 
 
 
 
 ---
 
-### 4. 
+### 4. In diesem Bild sieht man die erfolgreiche erstellte Instance us-east-1b
 
-
-
-
-
-
----
-### 5.
-
-
-
-
-
----
-### 6.
-
-
-
----
-
-### 7.
+![image](https://github.com/user-attachments/assets/2b6b01a9-10f5-4796-9265-b18b231c2330)
 
 
 
 
 ---
 
-### 8. 
 
 
 
