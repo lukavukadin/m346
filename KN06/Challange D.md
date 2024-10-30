@@ -34,7 +34,11 @@
 ---
 
 ### Fazit
-Die Implementierung des Load Balancers in Verbindung mit der Auto Scaling Group verlief reibungslos. Durch die korrekte Konfiguration wurde sichergestellt, dass die Anfragen gleichmäßig auf die beiden Instanzen verteilt werden. Die erfolgreiche Verbindung wurde durch die Funktionsprüfung über den DNS-Namen des Load Balancers bestätigt. Die Automatisierung und Fehlertoleranz der Architektur sorgen dafür, dass die Plattform hochverfügbar ist. Dies ermöglicht eine robuste Nutzung, selbst wenn eine Instanz ausfällt. Insgesamt bin ich mit dem Ergebnis sehr zufrieden.
+
+Die Einrichtung des Load Balancers mit der Auto Scaling Group hat reibungslos funktioniert. Die Anfragen werden gleichmäßig auf die beiden Instanzen verteilt, und die Verbindung wurde durch einen Test des DNS-Namens des Load Balancers bestätigt. 
+
+Dank der Automatisierung und Fehlertoleranz bleibt die Plattform auch bei Ausfällen einer Instanz hochverfügbar. Insgesamt bin ich mit dem Ergebnis sehr zufrieden!
+
 
 
 
