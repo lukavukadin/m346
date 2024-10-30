@@ -2,7 +2,7 @@
 
 ### 1. Zuerst habe ich einen Launch Templates mit hilfe der Anleitung erstellt.
 
-![image](https://github.com/user-attachments/assets/10f0aa07-73db-41fa-a856-b13168af5a13)
+![image](https://github.com/user-attachments/assets/47e83b35-b90c-4427-8aaa-9ffd12383747)
 
 
 
