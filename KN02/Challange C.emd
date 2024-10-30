@@ -1,4 +1,4 @@
-# Webserver und Datenbank Setup auf EC2
+# Installation Web- und Datenbankserver - Imperativ
 
 ## 1. SSH-Zugang
 Zuerst habe ich mich mit dem SSH-Key verbunden:
