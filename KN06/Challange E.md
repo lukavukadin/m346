@@ -26,21 +26,34 @@
 
 ---
 
-### 4.
+### 4. Nun musste ich die Target Group erstellen.
 
 
 
 ---
 
-### 5.
+### 5. In diesem Schritt musste ich einen neuen Lad Balancer erstellen mit dem namen KN06-VUK-ALB2.
 
 
 
 ---
 
-### 6.
+### 6. Jetzt musste ich den Auto Scaling Group der Target Group des Load Balancer zuweisen
 
 
+
+
+---
+
+### 7. Nun einen Dynamic Scaling policy erzeugen und einbinden
+
+
+
+
+
+---
+
+### 8. Beweis
 
 ---
 
