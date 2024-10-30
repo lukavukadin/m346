@@ -56,6 +56,6 @@ Mit dieser Anpassung konnte ich die Auto Scaling Group erfolgreich konfigurieren
 
 ### Credits
 
-Martin - Er hat mir den Hinweis gegeben das ich unter den **Subnetzeinstellungen von us-east-1a** die automatische IP-Zuweisung aktiviere, wegen dem konnte ich die Aufgabe erfolgreich lösen.
+Martin – Er hat mir den Hinweis gegeben, dass ich unter den Subnetzeinstellungen von us-east-1a die automatische IP-Zuweisung aktivieren soll. Dadurch konnte ich die Aufgabe erfolgreich lösen.
 
 
