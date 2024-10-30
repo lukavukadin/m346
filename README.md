@@ -24,7 +24,11 @@ Dies ist das Portfolio vom Modul 346 von Luka Vukadin. In diesem Portfolio sind 
 
 
 - #### KN02
-  - [EC2 Instanz und S3 Bucket aufsetzen](KN02/EC2%20Instanz%20und%20S3%20Bucket%20aufsetzen.md)
+  - **EC2 Instanz und S3 Bucket aufsetzen**
+    - [Modul 1](KN02/EC2%20Instanz%20und%20S3%20Bucket%20aufsetzen/Modul%201.md)
+    - [Modul 2](KN02/EC2%20Instanz%20und%20S3%20Bucket%20aufsetzen/Modul%202.md)
+    - [Modul 3](KN02/EC2%20Instanz%20und%20S3%20Bucket%20aufsetzen/Modul%203.md)
+    - [Modul 4](KN02/EC2%20Instanz%20und%20S3%20Bucket%20aufsetzen/Modul%204.md)
   - [Challange B](KN02/Challange%20B.md)
   - [Challange C](KN02/Challange%20C.md)
 
