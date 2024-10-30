@@ -11,14 +11,15 @@
 
 ---
 
-### 2. 
+### 2. Jetzt habe ich eine neue Auto Scaling Group erstellt mit dem Namen KN06_VUK_AutoScalingGroup_2
 
 
+![image](https://github.com/user-attachments/assets/d4809fc2-d055-4e17-a351-e4624cfda153)
 
 
 ---
 
-### 3.
+### 3. 
 
 
 
