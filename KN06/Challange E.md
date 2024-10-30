@@ -51,6 +51,8 @@
 
 ### 6. In diesem Schritt musste ich einen neuen Load Balancer erstellen mit dem namen KN06-VUK-ALB2.
 
+![image](https://github.com/user-attachments/assets/664766bf-5f04-42a3-8391-177ed345c884)
+
 
 
 ---
