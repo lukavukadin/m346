@@ -6,55 +6,55 @@ Dies ist das Portfolio vom Modul 346 von Luka Vukadin. In diesem Portfolio sind 
 
 ### Dokumentationen
 
-[Dokumentation Windows Server Installation.md](Dokumentation%20Windows%20Server%20Installation.md)
+[Dokumentation Windows Server Installation](Dokumentation%20Windows%20Server%20Installation.md)
 
 ### Kompetenznachweise
 
 - #### KN00
   - [Betriebsmodelle](KN00/Betriebsmodelle.md)
   - [Servicemodelle](KN00/Servicemodelle.md)
-  - [Cloud-init.md KN00](KN00/Cloud-init.md)
-  - [Virtualisierung.md KN00](KN00/Virtualisierung.md)
-  - [(Cloud-) Migrationsmodelle.md KN00](KN00/(Cloud-)%20Migrationsmodelle.md)
-  - [Speicherdienste.md KN00](KN00/Speicherdienste.md)
+  - [Cloud-init](KN00/Cloud-init.md)
+  - [Virtualisierung](KN00/Virtualisierung.md)
+  - [(Cloud-) Migrationsmodelle](KN00/(Cloud-)%20Migrationsmodelle.md)
+  - [Speicherdienste](KN00/Speicherdienste.md)
 
 - #### KN01
-  - [Challange A.md KN01](KN01/Challange%20A.md)
-  - [Challange B.md KN01](KN01/Challange%20B.md)
+  - [Challange A](KN01/Challange%20A.md)
+  - [Challange B](KN01/Challange%20B.md)
 
 - #### KN02
-  - [EC2 Instanz und S3 Bucket aufsetzen.md KN02](KN02/EC2%20Instanz%20und%20S3%20Bucket%20aufsetzen.md)
-  - [Challange B.md KN02](KN02/Challange%20B.md)
-  - [Challange C.md KN02](KN02/Challange%20C.md)
+  - [EC2 Instanz und S3 Bucket aufsetzen](KN02/EC2%20Instanz%20und%20S3%20Bucket%20aufsetzen.md)
+  - [Challange B](KN02/Challange%20B.md)
+  - [Challange C](KN02/Challange%20C.md)
 
 - #### KN03
-  - [Challange A.md KN03](KN03/Challange%20A.md)
-  - [Challange B.md KN03](KN03/Challange%20B.md)
-  - [Challange C.md KN03](KN03/Challange%20C.md)
-  - [Challange D.md KN03](KN03/Challange%20D.md)
+  - [Challange A](KN03/Challange%20A.md)
+  - [Challange B](KN03/Challange%20B.md)
+  - [Challange C](KN03/Challange%20C.md)
+  - [Challange D](KN03/Challange%20D.md)
 
 - #### KN04
-  - [Challange A.md KN04](KN04/Challange%20A.md)
-  - [Challange B.md KN04](KN04/Challange%20B.md)
-  - [Challange C.md KN04](KN04/Challange%20C.md)
-  - [Challange D.md KN04](KN04/Challange%20D.md)
+  - [Challange A](KN04/Challange%20A.md)
+  - [Challange B](KN04/Challange%20B.md)
+  - [Challange C](KN04/Challange%20C.md)
+  - [Challange D](KN04/Challange%20D.md)
 
 - #### KN05
-  - [Challange A.md KN05](KN05/Challange%20A.md)
-  - [Challange B.md KN05](KN05/Challange%20B.md)
-  - [Challange C.md KN05](KN05/Challange%20C.md)
+  - [Challange A](KN05/Challange%20A.md)
+  - [Challange B](KN05/Challange%20B.md)
+  - [Challange C](KN05/Challange%20C.md)
 
 - #### KN06
-  - [Challange A.md KN06](KN06/Challange%20A.md)
-  - [Challange B.md KN06](KN06/Challange%20B.md)
-  - [Challange C.md KN06](KN06/Challange%20C.md)
-  - [Challange D.md KN06](KN06/Challange%20D.md)
-  - [Challange E.md KN06](KN06/Challange%20E.md)
+  - [Challange A](KN06/Challange%20A.md)
+  - [Challange B](KN06/Challange%20B.md)
+  - [Challange C](KN06/Challange%20C.md)
+  - [Challange D](KN06/Challange%20D.md)
+  - [Challange E](KN06/Challange%20E.md)
 
 - #### KN07
-  - [Challange A.md KN07](KN07/Challange%20A.md)
-  - [Challange B.md KN07](KN07/Challange%20B.md)
-  - [Challange C.md KN07](KN07/Challange%20C.md)
+  - [Challange A](KN07/Challange%20A.md)
+  - [Challange B](KN07/Challange%20B.md)
+  - [Challange C](KN07/Challange%20C.md)
 
 ### Eigenes Projekt
 
