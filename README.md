@@ -22,7 +22,7 @@ Dies ist das Porfolio vom Modul 346 von Luka Vukadin. In diesesm Portfolio sind 
 - #### KN02
 
   - EC2 Instanz & S3 Bucket
-  - Zugriff auf Server mit SSH
+  - [Challange B](KN02/ChallangeB.md)
   - Web-und Datenbank Server
 
 - #### KN03
