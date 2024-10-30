@@ -92,6 +92,10 @@
 
 ![image](https://github.com/user-attachments/assets/e82d1502-0741-4f69-9d10-1ded33677bfe)
 
+#### Sie wurde dannach Heruntergefahren:
+
+![image](https://github.com/user-attachments/assets/5952cef6-9de6-42bd-a2af-8b49462558c4)
+
 
 ---
 
