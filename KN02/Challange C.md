@@ -1,4 +1,4 @@
-## EC2-Instanz mit SSH Key-Authentifizierung
+## Zugriff mit SSH-Key
 
 Im Folgenden sind die drei wichtigen Schritte zur Erstellung und Authentifizierung mit SSH-Key-Pairs bei einer EC2-Instanz zusammengefasst:
 
