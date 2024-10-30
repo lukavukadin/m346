@@ -60,6 +60,7 @@
 ### 7. Jetzt musste ich den Auto Scaling Group der Target Group des Load Balancer zuweisen
 
 
+![image](https://github.com/user-attachments/assets/fbb482bb-8df9-41bb-83b0-57a7235703bc)
 
 
 ---
