@@ -22,15 +22,15 @@ Dies ist das Porfolio vom Modul 346 von Luka Vukadin. In diesesm Portfolio sind 
 - #### KN02
 
   - EC2 Instanz & S3 Bucket
-  - [Challange B](KN02/Challange_B.md)
-  - [Challange C](KN02/Challange_C.md)
+  - [Challange_B](KN02/Challange_B.md)
+  - [Challange_C](KN02/Challange_C.md)
 
 - #### KN03
 
-  - [Challange A](KN03/Challange_A.md)
-  - [Challange B](KN03/Challange_B.md)
-  - [Challange C](KN03/Challange_C.md)
-  - [Challange D](KN03/Challange_D.md)
+  - [Challange_A](KN03/Challange_A.md)
+  - [Challange_B](KN03/Challange_B.md)
+  - [Challange_C](KN03/Challange_C.md)
+  - [Challang_D](KN03/Challange_D.md)
 
 - #### KN04
 
