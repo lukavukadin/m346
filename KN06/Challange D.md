@@ -12,7 +12,7 @@
 
 ---
 
-### 2. Jetzt habe ic
+### 2. Jetzt habe ich den Load Balancer erstellt.
 
 
 
