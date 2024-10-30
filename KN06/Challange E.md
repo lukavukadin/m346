@@ -19,7 +19,7 @@
 
 ---
 
-### 3. 
+### 3. Hier sieht man das die beiden Instancen in einer unterschiedlichen Availability Zones liegen und der Status active ist.
 
 
 
