@@ -101,4 +101,5 @@
 
 ### Fazit
 
+Das HA-Setup funktioniert wie gewünscht: Durch Auto Scaling und Load Balancing ist das System hochverfügbar und passt sich flexibel an die Last an. Die dynamische Skalierung reduziert Kosten und sorgt für eine effiziente Nutzung der Ressourcen, indem Instanzen bei Bedarf automatisch gestartet oder heruntergefahren werden.
 
