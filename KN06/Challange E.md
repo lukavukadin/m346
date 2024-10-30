@@ -38,13 +38,18 @@
 
 ### 5. Nun musste ich die Target Group erstellen.
 
+#### In diesem Bild sieht man das ich die beiden Instancen hinzugefügt habe:
+
 ![image](https://github.com/user-attachments/assets/970b0941-dd49-4764-8a12-8daf5281b195)
 
+#### Hier sieht man das er noch keine Zuordnung hat vom Load Balancer dies müssen wir noch machen:
+
+![image](https://github.com/user-attachments/assets/b0470867-c790-47ee-a220-ecf6b21c2196)
 
 
 ---
 
-### 6. In diesem Schritt musste ich einen neuen Lad Balancer erstellen mit dem namen KN06-VUK-ALB2.
+### 6. In diesem Schritt musste ich einen neuen Load Balancer erstellen mit dem namen KN06-VUK-ALB2.
 
 
 
