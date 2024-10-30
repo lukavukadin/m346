@@ -67,14 +67,18 @@
 
 ### 8. Nun einen Dynamic Scaling policy erzeugen und einbinden
 
+#### Die 20 im Feld Target value ist wie viele Anzahl Reloads gemacht werden müssen bis der Trigger ausgelöst wird:
 
+![image](https://github.com/user-attachments/assets/05211d75-c79d-4da7-952b-2e2165c45014)
 
+#### Hier der Fertig erstellte Dynamic Scaling policy:
+
+![image](https://github.com/user-attachments/assets/0655b57d-71fc-4675-931a-e905d049f1ed)
 
 
 ---
 
 ### 9. Beweis Bilder von den Instancen
-
 
 
 
