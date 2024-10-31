@@ -54,7 +54,7 @@ Nutzt man oft für Sicherheitsaufgaben, weil er den Datenverkehr filtern und lei
 
 #### 3. Wie können Sie den Auto Scaling-Service von AWS mit Load Balancern kombinieren, um die Skalierbarkeit und Verfügbarkeit Ihrer Anwendungen zu verbessern?
 
-Mit Auto Scaling und Load Balancern kann man Server automatisch aufstocken, wenn viele Nutzer die Anwendung gleichzeitig nutzen. Sobald die Nachfrage sinkt, werden ungenutzte Server heruntergefahren. Das bedeutet, die Anwendung ist immer bereit, egal wie groß der Ansturm ist, und es wird nur bezahlt, was wirklich gebraucht wird.
+Mit Auto Scaling und Load Balancern kann man Server automatisch aufstocken, wenn viele Nutzer die Anwendung gleichzeitig nutzen. Sobald die Nachfrage sinkt, werden ungenutzte Server heruntergefahren. Das bedeutet, die Anwendung ist immer bereit, egal wie gross der Ansturm ist, und es wird nur bezahlt, was wirklich gebraucht wird.
 
 ---
 
