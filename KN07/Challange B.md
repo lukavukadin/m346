@@ -93,7 +93,7 @@ cat /mnt/data-store/file.txt
 
 ![image](https://github.com/user-attachments/assets/ea26d787-0eab-4632-a8aa-49c3830c0f89)
 
-#### Jetzt muss ich das Restored Volume mounten:
+#### Jetzt muss ich das Restored Volume mounten und man sieht das file.txt ist vorhanden, dies bedeutet das der Auftrag geklappt hat:
 
 ![image](https://github.com/user-attachments/assets/6d857ccd-59b4-40f9-b22b-4d2271f13713)
 
