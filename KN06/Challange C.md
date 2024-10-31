@@ -26,7 +26,7 @@
 
 ---
 
-### 3. Hier sieht man den erfolgreichen Zugriff auf die Instance us-east-1a
+### 3. In diesem Bild sieht man den erfolgreichen Zugriff auf die Instance us-east-1a
 
 
 ![image](https://github.com/user-attachments/assets/ed69135b-be21-4175-b5f4-b54896900498)
@@ -36,7 +36,7 @@
 
 ---
 
-### 4. Hier sieht man den erfolgreichen Zugriff auf die Instance us-east-1b
+### 4. Auf diesem Bild Hier sieht man den erfolgreichen Zugriff auf die Instance us-east-1b
 
 ![image](https://github.com/user-attachments/assets/ecae21c3-b379-4306-89d9-462e2fa19728)
 
