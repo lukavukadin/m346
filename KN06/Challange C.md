@@ -11,7 +11,7 @@
 
 ---
 
-### 2. In disesem Schritt habe ich die Auto-Scaling-Gruppe erstellt, mit us-east-1a und -1b.
+### 2. In disesem Schritt habe ich die Auto-Scaling-Gruppe erstellt mit Launch Template und den Instancen us-east-1a und -1b.
 
 ![image](https://github.com/user-attachments/assets/1954d5a8-ad76-4b88-8f75-59baf4a2ee34)
 
