@@ -11,7 +11,7 @@ Würde hingegen ein Erdbeben eintreten, könnten meine Systeme durch erdbebensic
 
 ## Fault Tolerance (FT)
 
-Fault Tolerance (FT) ist wichtig, um sicherzustellen, dass die IT auch dann funktioniert, wenn mal was ausfällt. Gerade in einem kleinen Serverraum einer Kleinfirma sollte ich sicherstellen, dass wir ein paar grundlegende Redundanzen einbauen, um bei Problemen direkt reagieren zu können. Hier drei Maßnahmen, die ich einführen würde:
+Fault Tolerance (FT) ist wichtig, um sicherzustellen, dass die IT auch dann funktioniert, wenn mal was ausfällt. Gerade in einem kleinen Serverraum einer Kleinfirma sollte ich sicherstellen, dass wir ein paar grundlegende Redundanzen einbauen, um bei Problemen direkt reagieren zu können. Hier drei Massnahmen, die ich einführen würde:
 
 1. **Redundante Stromversorgung**  
    Haupt- und Reserveleitungen sorgen dafür, dass die Server auch bei einem Stromausfall weiterlaufen. In der Cloud ist das mit großen, abgesicherten Stromnetzen und Notstromlösungen gewährleistet.
