@@ -1,5 +1,6 @@
 ## Zwei Webserver erstellen und Last mittles Load Balancer gleichmässig verteilen
 
+## Vorgehen:
 
 ### 1. Zuerst habe ich die erste EC2 Webserver 1 Instance erstellt
 
