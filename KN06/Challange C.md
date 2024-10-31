@@ -18,7 +18,7 @@
 
 
 
-### 3. Hier sieht man das die beiden Instancen in einer unterschiedlichen Availability Zones liegen
+### 3. Hier sieht man das die beiden Instancen am laufen sind und das sie, in einer unterschiedlichen Availability Zones liegen
 
 
 ![image](https://github.com/user-attachments/assets/035d0033-85cd-4c2f-8d73-bba84e84a55f)
