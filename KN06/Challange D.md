@@ -1,5 +1,7 @@
 # Load Balancer / High Availability
 
+## Vorgehen:
+
 ### 1. Zuerst habe ich die Zielgruppe erstellt mit den zwei Instanzen. Es ist noch kein Load Balancer zugewiesen, dies müssen wir noch machen.
 
 ![image](https://github.com/user-attachments/assets/c6839a92-e136-4fe8-884c-d3043333292e)
