@@ -1,5 +1,7 @@
 # Auto Scaling Group erstellen und anwenden
 
+## Vorgehen:
+
 ### 1. Zuerst habe ich einen Launch Templates mit hilfe der Anleitung erstellt.
 
 ![image](https://github.com/user-attachments/assets/47e83b35-b90c-4427-8aaa-9ffd12383747)
