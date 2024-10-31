@@ -16,7 +16,7 @@
 
 ---
 
-### 3. Nun habe ich die EC2-Instanz *Webserver 2* erstellt. Dies habe ich über Aktionen -> Image und Vorlagen --> weitere ähnliche Elemente auswählen. Dort muss man dann nur noch den Namne ändern der Instance und einen andere Sicherheitsgruppe auswäheln, bei uns jetzt us-east.1b
+### 3. Nun habe ich die EC2-Instanz *Webserver 2* erstellt. Dies habe ich über Aktionen -> Image und Vorlagen --> weitere ähnliche Elemente auswählen. Dort muss man dann nur noch den Namen ändern der Instance und einen andere Sicherheitsgruppe auswäheln, bei uns jetzt us-east.1b
 
 ![image](https://github.com/user-attachments/assets/8137c7c4-ce20-4427-a55d-e6b5df7621eb)
 
