@@ -1,5 +1,7 @@
 # EBS Volume erstellen, Snapshot ziehen und daraus neues Volume erzeugen
 
+## Vorgehen:
+
 ### 1. Zuerst habe ich ein Volumes erstellt mit den Angaben von der Anleitung
 
 
