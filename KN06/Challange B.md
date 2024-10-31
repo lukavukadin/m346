@@ -33,7 +33,7 @@
 
 
 ---
-### 5. Jetzt habe ich den Load Balancer erstellt. Hier habe ich Application Load Balancer ausgewählt, weil es verfügbar für viele Funktionen und kann verwendet werden für HTTP und HTTPS-Verkehr.
+### 5. Jetzt habe ich den Load Balancer erstellt. Hier habe ich Application Load Balancer ausgewählt, weil es verfügbar für viele Funktionen und kann verwendet werden für HTTP und HTTPS-Verkehr. Den Load Balancer habe ich mit den beiden Instancen erstellt.
 
 
 ![image](https://github.com/user-attachments/assets/12ccf0d1-160b-44a2-b93f-2e8bc3fb7dc0)
