@@ -58,7 +58,7 @@ Mit Auto Scaling und Load Balancern kann man Server automatisch aufstocken, wenn
 
 ---
 
-#### 4. Welche Sicherheitsmaßnahmen und Best Practices sollten beim Konfigurieren eines AWS Load Balancers beachtet werden, um Angriffe wie DDoS-Attacken zu verhindern?
+#### 4. Welche Sicherheitsmassnahmen und Best Practices sollten beim Konfigurieren eines AWS Load Balancers beachtet werden, um Angriffe wie DDoS-Attacken zu verhindern?
 
 Um den Load Balancer sicher zu machen, kann man:
    - **AWS Shield und WAF** (Web Application Firewall) einsetzen – die helfen, Bedrohungen zu erkennen und blockieren Angriffe.
@@ -87,7 +87,7 @@ AWS Auto Scaling passt die Anzahl der Server automatisch an die aktuelle Nachfra
 Es gibt verschiedene Richtlinien, um Auto Scaling zu steuern:
    - **Zielbasiert** (Target Tracking): AWS skaliert automatisch, um eine bestimmte Auslastung (z.B. CPU) zu halten.
    - **Schwellenwertbasiert** (Step Scaling): Startet zusätzliche Server, wenn ein bestimmter Wert überschritten wird.
-   - **Geplantes Scaling**: Automatische Anpassungen basierend auf einer festgelegten Zeit, z. B. zu Stoßzeiten.
+   - **Geplantes Scaling**: Automatische Anpassungen basierend auf einer festgelegten Zeit, z. B. zu Stosszeiten.
 
 ---
 
@@ -99,13 +99,13 @@ Auto Scaling nutzt Alarme (z.B. CPU-Auslastung) von **CloudWatch**, um festzuste
 
 #### 4. Warum ist AWS Auto Scaling nützlich für die Kostenoptimierung?
 
-Auto Scaling hilft, Kosten zu sparen, indem es nur dann zusätzliche Server startet, wenn sie wirklich gebraucht werden. Das heißt, man zahlt nur für die Serverkapazität, die tatsächlich genutzt wird.
+Auto Scaling hilft, Kosten zu sparen, indem es nur dann zusätzliche Server startet, wenn sie wirklich gebraucht werden. Das heisst, man zahlt nur für die Serverkapazität, die tatsächlich genutzt wird.
 
 ---
 
 #### 5. Welche Rolle spielt die Elastic Load Balancing (ELB) in Verbindung mit AWS Auto Scaling?
 
-Die ELB verteilt automatisch die Anfragen auf die verfügbaren Server. Wenn durch Auto Scaling neue Server hinzukommen, teilt die ELB die Last sofort auf diese auf, sodass alle Server gleichmäßig ausgelastet sind.
+Die ELB verteilt automatisch die Anfragen auf die verfügbaren Server. Wenn durch Auto Scaling neue Server hinzukommen, teilt die ELB die Last sofort auf diese auf, sodass alle Server gleichmässig ausgelastet sind.
 
 ---
 
