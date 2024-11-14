@@ -61,9 +61,6 @@ Dies ist das Portfolio vom Modul 346 von Luka Vukadin. In diesem Portfolio sind 
   - [Challange A](KN07/Challange%20A.md)
   - [Challange B](KN07/Challange%20B.md)
 
-### Eigenes Projekt
-
-Ich habe in diesem Modul zusätzlich noch mein eigenes Projekt umgesetzt.
 
 ### Reflexion
 
