@@ -94,7 +94,6 @@ Es gibt verschiedene Richtlinien, um Auto Scaling zu steuern:
 #### 3. Wie kann die Auto Scaling-Gruppe wissen, wann sie zusätzliche Instanzen starten oder beenden sollte?
 
 Auto Scaling nutzt Alarme (z.B. CPU-Auslastung) von **CloudWatch**, um festzustellen, wann es mehr Server braucht oder welche abgeschaltet werden können, wenn weniger los ist.
-
 ---
 
 #### 4. Warum ist AWS Auto Scaling nützlich für die Kostenoptimierung?
